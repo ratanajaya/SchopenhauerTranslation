@@ -14,9 +14,11 @@ This file is the running record for translation choices, terminology, open quest
 | Erscheinung | appearance | Active | Consider "phenomenon" in tightly Kantian contexts. |
 | Anschauung | intuition | Active | Especially important in Kantian passages. |
 | Erkenntnis | cognition / knowledge | Watch | Choose by context. Record chapter-specific decisions below. |
+| Träger | bearer | Active | Used in chapter 0004 for the subject as "bearer of the world." |
 | Bewusstsein | consciousness | Active | Use modern spelling in notes even where source has older orthography. |
 | Subjekt | subject | Active | Keep paired with "object." |
 | Objekt | object | Active | Keep paired with "subject." |
+| unmittelbares Objekt | immediate object | Active | Used in chapter 0004 for the body as the subject's immediate object. |
 | Kausalität | causality | Active | Source may use older spelling. |
 | Materie | matter | Active | Watch for metaphysical versus physical context. |
 | Vernunft | reason | Active | In Kantian contexts, preserve technical meaning. |
@@ -65,7 +67,8 @@ Use inline format for short phrases:
 | chapter-0001.md | Complete | Translated into `english-translation/chapter-0001.md`. Kept `Non multa` with an inline English translation. |
 | chapter-0002.md | Complete | Translated into `english-translation/chapter-0002.md`. Added inline translations for Latin and French phrases. |
 | chapter-0003.md | Complete | Redone with improved English paragraphing in `english-translation/chapter-0003.md`. Establishes "The world is representation" and "the world is my will." |
-| chapter-0004.md through chapter-0073.md | Not started | Sections 2-71. Update this table as each chapter is translated. |
+| chapter-0004.md | Complete | Translated into `english-translation/chapter-0004.md`. Establishes the subject/object halves of the world as representation and the body as immediate object. |
+| chapter-0005.md through chapter-0073.md | Not started | Sections 3-71. Update this table as each chapter is translated. |
 | chapter-0074.md | Not started | Appendix on Kant; expect dense terminology and many proper names. |
 
 ## Open Questions
@@ -109,4 +112,5 @@ Add notes here when a later chapter forces a change to an earlier translation ch
 - For front matter and prefaces, use "Volume" for `Band` and "Preface" for `Vorrede`.
 - Use "principle of sufficient reason" for `Satz vom Grunde` beginning in the editor's notes.
 - In chapter 0003, `Erkenntniß` was translated as "cognition" when referring to the field of what exists for knowing; continue to prefer "cognition" in technical epistemological contexts.
+- In chapter 0004, `Erkenntniß` continues as "cognition" in technical contexts, especially "object of cognition" and "`a priori` certain cognition."
 - From chapter 0003 onward, translations should improve English paragraphing rather than mirror the source paragraph structure one-to-one.

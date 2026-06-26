@@ -124,3 +124,4 @@ The whole-book translation is complete when:
 1. `chapter-0001.md` - title/front matter
 2. `chapter-0002.md` - editor's notes and prefaces
 3. `chapter-0003.md` - opening of Book One, section 1
+4. `chapter-0004.md` - section 2, subject and object
