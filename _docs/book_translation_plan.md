@@ -6,15 +6,6 @@ Translate the full book from German into clear, modern English while preserving 
 
 The work will proceed sequentially, chapter by chapter, using the Markdown files in `original-epub-extract-md` as the source text.
 
-## Source Sequence
-
-Translate in file order:
-
-1. `chapter-0001.md` - title/front matter
-2. `chapter-0002.md` - editor's notes and prefaces
-3. `chapter-0003.md` through `chapter-0073.md` - sections 1-71
-4. `chapter-0074.md` - appendix, "Critique of the Kantian Philosophy"
-
 Each translated file should keep the same base filename unless a later publishing step requires a different naming scheme. Recommended output folder: `english-translation`.
 
 ## Translation Style
@@ -27,7 +18,7 @@ Prefer direct, contemporary vocabulary over archaic English, except where a tech
 
 Retain key Schopenhauer terms consistently. Before changing a recurring term, check `_docs/translation_glossary_notes.md`.
 
-This is not a one-to-one sentence or paragraph translation. The English version should be edited as readable English prose: break up long source paragraphs, reduce wall-of-text density, and shape the argument into clear units of thought. Keep the full meaning, sequence of reasoning, and technical vocabulary, but do not preserve German paragraph bulk merely because it appears in the source.
+This is not a one-to-one sentence or paragraph translation. The English version should be edited as readable English prose: break up long source paragraphs and shape the argument into clear units of thought. Keep the full meaning, sequence of reasoning, and technical vocabulary.
 
 When improving the writing, favor clarity over literal syntax. Recast long German constructions into natural English order, divide overloaded sentences, and use paragraph breaks to mark transitions between thesis, explanation, example, contrast, and conclusion.
 
@@ -78,14 +69,6 @@ For each chapter:
 6. Review the chapter for clarity, consistency, and paragraph flow.
 7. Update `_docs/translation_glossary_notes.md` with new decisions, uncertain terms, recurring names, and cross-chapter continuity notes.
 
-## Batch Size
-
-Translate one chapter at a time by default.
-
-For very short chapters, title pages, or short section files, adjacent files may be grouped into one working batch, but the output should still remain chapter-aligned.
-
-For long files such as `chapter-0002.md` and `chapter-0074.md`, split the work internally into smaller editorial passes while keeping the final translated file intact.
-
 ## Review Passes
 
 Each chapter should receive three passes:
@@ -103,23 +86,6 @@ Do not silently change established translations of key terms. If a better transl
 Keep proper names and work titles consistent. When a title has a widely recognized English version, prefer that version and record it.
 
 Track uncertain choices rather than resolving them casually. A note marked "Review later" is better than an inconsistent translation.
-
-## Initial Term Policy
-
-These are starting choices and may be refined in the glossary:
-
-| German term | Preferred English | Notes |
-| --- | --- | --- |
-| Vorstellung | representation | Central term; avoid "idea" unless context requires it. |
-| Wille | will | Capitalize only when grammar or title style requires it. |
-| Welt als Vorstellung | world as representation | Keep consistent with title and argument. |
-| Welt als Wille | world as will | Keep paired with "world as representation." |
-| Satz vom Grunde | principle of sufficient reason | Established philosophical translation. |
-| Ding an sich | thing in itself | Established Kantian term. |
-| Erscheinung | appearance | Use "phenomenon" only where the Kantian context requires it. |
-| Anschauung | intuition | In Kantian contexts, not "view" or "contemplation." |
-| Erkenntnis | cognition / knowledge | Choose by context and record decisions. |
-| Subjekt / Objekt | subject / object | Keep the pair stable. |
 
 ## File And Folder Plan
 
@@ -151,3 +117,10 @@ The whole-book translation is complete when:
 4. Paragraphs, headings, mottoes, and footnotes are cleanly formatted.
 5. The glossary and continuity notes cover the major recurring terms, names, titles, and editorial decisions.
 6. A final consistency pass has been completed across all chapters.
+
+
+## Translated files
+
+1. `chapter-0001.md` - title/front matter
+2. `chapter-0002.md` - editor's notes and prefaces
+3. `chapter-0003.md` - opening of Book One, section 1

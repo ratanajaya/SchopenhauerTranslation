@@ -7,42 +7,31 @@ Representation subject to the principle of sufficient reason:<br>
 the object of experience and science.
 
 > `Sors de l'enfance, ami, réveille-toi!`<br>
-> `Jean-Jacques Rousseau.`
+> Jean-Jacques Rousseau.<br>
 > Translation: Leave childhood behind, friend; wake up!
 
-"The world is my representation": this is a truth that holds for every living and knowing being. Only the human being, however, can bring it into reflective, abstract consciousness. When he actually does so, philosophical reflectiveness has awakened in him.
+"The world is my representation": this is a truth that holds for every living and knowing being, although only the human being can bring it into reflective, abstract consciousness. When he actually does so, philosophical clarity has entered into him.
 
-It then becomes clear and certain to him that he knows neither sun nor earth as things simply in themselves. He knows only an eye that sees a sun, a hand that feels an earth. The world surrounding him is there only as representation; that is, it exists throughout only in relation to something else, to the one who represents it, namely himself.
+It then becomes clear and certain to him that he knows no sun and no earth, but always only an eye that sees a sun, a hand that feels an earth; that the world surrounding him exists only as representation, that is, always only in relation to something else, the representing subject, which he himself is.
 
-If any truth can be stated `a priori` (prior to experience), it is this one. It states the form of all possible and thinkable experience, a form more general than time, space, or causality. All three already presuppose it.
+If any truth can be stated `a priori` (prior to experience), it is this one. For it expresses the form of all possible and conceivable experience, a form more universal than all others, more universal than time, space, and causality; for all of these already presuppose it. Each of these forms, which we have recognized as so many particular configurations of the principle of sufficient reason, applies only to a particular class of representations. By contrast, the division into object and subject is the common form of all those classes. It is the form under which alone any representation whatsoever, of whatever kind it may be, abstract or intuitive, pure or empirical, is possible and thinkable at all.
 
-Each of those forms, which we have recognized as special configurations of the principle of sufficient reason, applies only to a particular class of representations. By contrast, the division into object and subject is the common form of all those classes. It is the form under which alone any representation whatsoever can be possible and thinkable: abstract or intuitive, pure or empirical.
+No truth, therefore, is more certain, more independent of all others, or less in need of proof than this: that everything that exists for cognition, and thus this whole world, is only object in relation to the subject, intuition of the one who intuits, in a word, representation. Naturally this holds of every past and every future just as it holds of the present, of what is farthest as of what is nearest; for it holds of time and space themselves, within which alone all these distinctions arise. Everything that belongs, or can belong, to the world is inescapably marked by this conditioning through the subject, and exists only for the subject. The world is representation.
 
-No truth, then, is more certain, more independent of all others, or less in need of proof than this: everything that exists for cognition, and therefore this entire world, is only object in relation to the subject, intuition for the one who intuits; in a word, representation.
+This truth is by no means new. It already lay in the skeptical reflections from which Descartes set out. Berkeley, however, was the first to state it decisively, and by doing so he acquired an immortal merit in philosophy, even if the rest of his doctrines cannot stand. Kant's first error was the neglect of this proposition, as is explained in the appendix.
 
-Naturally this holds for every past and every future just as much as for the present, for what is farthest away just as much as for what is nearest. It holds for time and space themselves, since only in them are all these distinctions made. Everything that belongs, or can belong, to the world is unavoidably marked by this dependence on the subject, and exists only for the subject. The world is representation.
+By contrast, how early this fundamental truth was recognized by the sages of India is attested by W. Jones, in the last of his essays, "On the Philosophy of the Asiatics," *Asiatic Researches*, Vol. IV, p. 164, where it appears as the fundamental proposition of the Vedanta philosophy ascribed to *Vyasa*:
 
-This truth is by no means new. It already lay in the skeptical reflections from which Descartes set out. Berkeley, however, was the first to state it decisively, and by doing so he earned an immortal merit in philosophy, even if the rest of his doctrines cannot stand. Kant's first error was his neglect of this proposition, as is explained in the appendix.
+> the fundamental tenet of the Vedanta school consisted not in denying the existence of matter, that is of solidity, impenetrability, and extended figure (to deny which would be lunacy), but in correcting the popular notion of it, and in contending that it has no essence independent of mental perception; that existence and percibility are convertible terms. [^1]
 
-By contrast, the sages of India recognized this fundamental truth very early. It appears as the basic proposition of the Vedanta philosophy attributed to *Vyasa*. W. *Jones* attests this in the last of his essays:
+These words express sufficiently the coexistence of empirical reality with transcendental ideality.
 
-> `on the philosophy of the Asiatics; Asiatic researches, Vol. IV, p. 164: the fundamental tenet of the Vedanta school consisted not in denying the existence of matter, that is of solidity, impenetrability, and extended figure (to deny which would be lunacy), but in correcting the popular notion of it, and in contending that it has no essence independent of mental perception; that existence and percibility are convertible terms`
-> English in original. [^1]
+Thus, in this first book, we consider the world only from the side just indicated, only insofar as it is representation. Yet this consideration, without prejudice to its truth, is one-sided, and therefore is brought about by some deliberate abstraction. Everyone is told as much by the inner resistance with which he accepts the world as his mere representation, an acceptance from which, on the other hand, he can never escape.
 
-These words adequately express the coexistence of empirical reality with transcendental ideality.
+The one-sidedness of this consideration will be supplemented by the following book, through a truth that is not so immediately certain as the one from which we begin here. Only deeper investigation, more difficult abstraction, the separation of what is different and the unification of what is identical, can lead to it. It is a truth that must be very serious, and to everyone, if not terrible, at least grave: namely, that he too can and must say, "the world is my will."
 
-In this first book, then, we consider the world only from the side already indicated: only insofar as it is representation.
+Until then, however, and therefore throughout this first book, it is necessary to keep fixedly in view the side of the world from which we set out, the side of knowability. Accordingly, without resistance, we must consider all existing objects, indeed even our own body, as we shall soon discuss more closely, only as representation, and call them mere representation.
 
-Yet this consideration, without ceasing to be true, is one-sided. It is produced by a deliberate abstraction. Everyone can sense this in the inner resistance with which he accepts the world as his mere representation, even though, on the other hand, he can never escape that acceptance.
+What is abstracted from here, as I hope will later become certain to everyone, is always only the *will*, which alone constitutes the other side of the world. For the world is, on the one hand, through and through *representation*, and, on the other, through and through *will*. But a reality that would be neither of these two, an object in itself, into which Kant's thing in itself unfortunately degenerated in his hands, is a dreamed-up absurdity, and its assumption is a will-o'-the-wisp in philosophy.
 
-The following book will supplement this one-sided view with another truth. It is not as immediately certain as the truth from which we begin here. It can be reached only through deeper inquiry, more difficult abstraction, the separation of what is different, and the unification of what is identical.
-
-That truth is very serious. For everyone it must be, if not terrifying, at least grave: he too can and must say, "the world is my will."
-
-Until then, and therefore throughout this first book, we must look steadily at the side of the world from which we begin: the side of its knowability. Accordingly, without resistance, we must regard every existing object, even our own body, as we shall soon discuss more closely, only as representation, and call it mere representation.
-
-What is abstracted from here, as everyone will later, I hope, become certain, is always only the *will*. The will alone constitutes the other side of the world. For the world is, on the one hand, through and through *representation*, and, on the other hand, through and through *will*.
-
-But a reality that was neither of these two, and instead was an object in itself, is a dreamed-up nonentity. Kant's thing in itself, unfortunately, also degenerated into such a thing in his hands. To assume it is to follow a will-o'-the-wisp in philosophy.
-
-[^1]: The fundamental dogma of the Vedanta school consisted not in denying the existence of matter, that is, of solidity, impenetrability, and extension (which it would be madness to deny), but in correcting the ordinary concept of it by maintaining that it has no existence independent of cognitive apprehension, since existence and perceptibility are convertible terms.
+[^1]: The fundamental dogma of the Vedanta school consisted not in denying the existence of matter, that is, solidity, impenetrability, and extension, which it would be madness to deny, but in correcting the ordinary concept of it by maintaining that it has no existence independent of cognitive apprehension; existence and perceptibility are thus interchangeable concepts.
