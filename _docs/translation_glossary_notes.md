@@ -60,17 +60,6 @@ Use inline format for short phrases:
 `a priori` (prior to experience)
 ```
 
-## Chapter Log
-
-| Chapter | Status | Notes |
-| --- | --- | --- |
-| chapter-0001.md | Complete | Translated into `english-translation/chapter-0001.md`. Kept `Non multa` with an inline English translation. |
-| chapter-0002.md | Complete | Translated into `english-translation/chapter-0002.md`. Added inline translations for Latin and French phrases. |
-| chapter-0003.md | Complete | Redone with improved English paragraphing in `english-translation/chapter-0003.md`. Establishes "The world is representation" and "the world is my will." |
-| chapter-0004.md | Complete | Translated into `english-translation/chapter-0004.md`. Establishes the subject/object halves of the world as representation and the body as immediate object. |
-| chapter-0005.md through chapter-0073.md | Not started | Sections 3-71. Update this table as each chapter is translated. |
-| chapter-0074.md | Not started | Appendix on Kant; expect dense terminology and many proper names. |
-
 ## Open Questions
 
 | Question | Current leaning | Resolution |
