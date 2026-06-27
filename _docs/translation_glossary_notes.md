@@ -10,10 +10,15 @@ This file is the running record for translation choices, terminology, open quest
 | Wille | will | Active | Keep simple and direct. |
 | Die Welt als Wille und Vorstellung | The World as Will and Representation | Active | Standard English title. |
 | Satz vom Grunde | principle of sufficient reason | Active | Established philosophical translation. |
+| Grund des Seyns | ground of being | Active | Chapter 0005 names this as the form of the principle of sufficient reason in time and space. |
 | Ding an sich | thing in itself | Active | Established Kantian term. |
 | Erscheinung | appearance | Active | Consider "phenomenon" in tightly Kantian contexts. |
 | Anschauung | intuition | Active | Especially important in Kantian passages. |
+| intuitive Vorstellung | intuitive representation | Active | Chapter 0005 contrasts intuitive and abstract representations. |
+| abstrakte Vorstellung | abstract representation | Active | Chapter 0005 contrasts intuitive and abstract representations. |
+| Begriff | concept | Active | Chapter 0005 treats concepts as the sole class of abstract representations. |
 | Erkenntnis | cognition / knowledge | Watch | Choose by context. Record chapter-specific decisions below. |
+| Maja | Maya | Active | Use the standard English/Sanskrit form for the veil of illusion discussed in chapter 0005. |
 | Träger | bearer | Active | Used in chapter 0004 for the subject as "bearer of the world." |
 | Bewusstsein | consciousness | Active | Use modern spelling in notes even where source has older orthography. |
 | Subjekt | subject | Active | Keep paired with "object." |
@@ -39,9 +44,12 @@ This file is the running record for translation choices, terminology, open quest
 | Berkeley | Berkeley | Preserve. |
 | Hume | Hume | Preserve. |
 | Locke | Locke | Preserve. |
+| Herakleitos | Heraclitus | Use English form. |
+| Spinoza | Spinoza | Preserve. |
 | Goethe | Goethe | Preserve. |
 | Arthur Schopenhauer | Arthur Schopenhauer | Preserve. |
 | Eduard Grisebach | Eduard Grisebach | Preserve. |
+| Grundprobleme der Ethik | Two Fundamental Problems of Ethics | Used in the chapter 0005 footnote. |
 
 ## Non-German Quote Handling
 
@@ -93,6 +101,7 @@ Use inline format for short phrases:
 | `si quis, tota die currens, pervenit ad vesperam, satis est` | if someone, running all day, reaches evening, it is enough | chapter-0002.md |
 | `Sors de l'enfance, ami, réveille-toi!` | Leave childhood behind, friend; wake up! | chapter-0003.md |
 | `the fundamental tenet of the Vedanta school consisted not in denying...` | English in original; corresponding German footnote translated in chapter 0003. | chapter-0003.md |
+| `in abstracto` | in the abstract | chapter-0005.md |
 
 ## Revision Notes
 
@@ -102,4 +111,5 @@ Add notes here when a later chapter forces a change to an earlier translation ch
 - Use "principle of sufficient reason" for `Satz vom Grunde` beginning in the editor's notes.
 - In chapter 0003, `Erkenntniß` was translated as "cognition" when referring to the field of what exists for knowing; continue to prefer "cognition" in technical epistemological contexts.
 - In chapter 0004, `Erkenntniß` continues as "cognition" in technical contexts, especially "object of cognition" and "`a priori` certain cognition."
+- In chapter 0005, use "grounding" for `Begründung` when Schopenhauer discusses the law of the grounding of judgments.
 - From chapter 0003 onward, translations should improve English paragraphing rather than mirror the source paragraph structure one-to-one.

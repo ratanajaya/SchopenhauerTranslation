@@ -125,3 +125,4 @@ The whole-book translation is complete when:
 2. `chapter-0002.md` - editor's notes and prefaces
 3. `chapter-0003.md` - opening of Book One, section 1
 4. `chapter-0004.md` - section 2, subject and object
+5. `chapter-0005.md` - section 3, intuitive and abstract representation
