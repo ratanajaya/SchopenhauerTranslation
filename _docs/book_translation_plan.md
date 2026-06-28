@@ -133,3 +133,6 @@ The whole-book translation is complete when:
 10. `chapter-0010.md` - section 8, reflection, concepts, and reason
 11. `chapter-0011.md` - section 9, concepts, logic, and persuasion
 12. `chapter-0012.md` - section 10, certainty, knowledge, and science
+13. `chapter-0013.md` - section 11, feeling as non-conceptual consciousness
+14. `chapter-0014.md` - section 12, abstract knowledge, application, and intuition
+15. `chapter-0015.md` - section 13, laughter, wit, foolishness, and pedantry

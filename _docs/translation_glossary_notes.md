@@ -34,6 +34,12 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | abstrakte Erkenntnis | abstract cognition | Opposed to intuitive cognition. |
 | Wissen | knowledge | Chapter 0012 defines this as abstract consciousness fixed in concepts. |
 | Wissenschaft | science | Means systematic knowledge, not only natural science. |
+| Mitteilbarkeit | communicability | Chapter 0014 emphasizes this as a chief value of abstract knowledge. |
+| Anschaulichkeit | intuitiveness | Use for the quality of being intuitive or visually/intuitively present. |
+| Bestimmtheit | determinacy | Use especially where abstract knowledge gains exactness. |
+| Gefuehl | feeling | Chapter 0013 defines this negatively: whatever is present in consciousness but is not abstract rational cognition. Do not narrow it to "emotion." |
+| Empfindung | sensation | Reserve for bodily feelings where Schopenhauer distinguishes it from `Gefuehl`. |
+| Gefuehlsvermoegen | faculty of feeling | Use when Schopenhauer criticizes theories that posit a special faculty for feeling. |
 | Gewissheit | certainty | Used in questions about grounding judgments. |
 | Wahrheit | truth | Truth belongs to judgments and abstract cognition, not intuitive objects as such. |
 | Bewusstsein | consciousness | Use modern spelling in notes. |
@@ -75,6 +81,13 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Sorge / Reue | care / remorse | Effects of abstract practical cognition. |
 | Idee | Idea / idea | Capitalize in Platonic contexts; otherwise use lowercase. |
 | Maja | Maya | Use the standard English/Sanskrit form. |
+| Physiognomik / Pathognomik | physiognomics / pathognomics | Chapter 0014 treats these as intuitive, not teachable `in abstracto`. |
+| Lachen | laughter | Chapter 0015 explains it as the expression of a suddenly perceived incongruence between concept and object. |
+| das Laecherliche | the ludicrous | Use for Schopenhauer's technical account of what provokes laughter. |
+| Witz | wit | Voluntary subsumption of different intuitive objects under one concept. |
+| Narrheit | foolishness | Involuntary action from treating different objects alike under one concept. |
+| Pedanterei | pedantry | A form of foolishness: rule-bound application of abstract concepts where intuition/judgment is needed. |
+| Wortspiel | wordplay | A weaker, accidental analogue of wit based on one word bearing different concepts. |
 
 ## Logic And Method Terms
 
@@ -103,7 +116,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 
 Use standard English forms for familiar names:
 
-Kant, Plato, Descartes, Leibniz, Wolff, Berkeley, Fichte, Thales, Democritus, Epicurus, Giordano Bruno, Eleatics, Pythagoreans, Scholastics, Baron Munchausen, Hume, Herder, Locke, Newton, Lavoisier, Buffon, Hobbes, Heraclitus, Spinoza, Pindar, Sophocles, Shakespeare, Calderon, Goethe, Plouquet, Lambert, Euler, Rameau, Megarians, Sophists, Sextus Empiricus, Aristotle, Callisthenes, Stahl, Schopenhauer, Grisebach.
+Kant, Plato, Descartes, Leibniz, Wolff, Berkeley, Fichte, Thales, Democritus, Epicurus, Giordano Bruno, Eleatics, Pythagoreans, Scholastics, Baron Munchausen, Hume, Herder, Locke, Newton, Lavoisier, Buffon, Hobbes, Heraclitus, Spinoza, Pindar, Sophocles, Shakespeare, Calderon, Goethe, Schiller, Plouquet, Lambert, Euler, Rameau, Megarians, Sophists, Sextus Empiricus, Aristotle, Callisthenes, Stahl, Schleiermacher, Tennemann, Seneca, van der Werff, Denner, Schopenhauer, Grisebach.
 
 Use these title forms:
 
@@ -116,12 +129,16 @@ Use these title forms:
 | Die vierfache Wurzel des Satzes vom Grunde | The Fourfold Root of the Principle of Sufficient Reason |
 | Essay on human understanding | An Essay Concerning Human Understanding |
 | Nouveaux essais sur l'entendement humain | New Essays on Human Understanding |
+| Kritik der Sittenlehre | Critique of Ethics |
+| Geschichte der Philosophie | History of Philosophy |
+| de clementia | On Clemency |
 | Leviathan | Leviathan |
 | Tempest | The Tempest |
 | Das Leben ein Traum | Life Is a Dream |
 | Y-king | I Ching |
 | Metakritik | Metacritique |
 | Asiatic researches | Asiatic Researches |
+| Parerga | Parerga |
 
 ## Foreign-Language Quotes
 
@@ -152,6 +169,11 @@ Common settled glosses:
 | toto genere | in kind altogether |
 | veritas aeterna / aeterna veritas | eternal truth |
 | petitio principii | begging of the question |
+| roturiers | commoners |
+| signatura rerum | signature of things |
+| calembourg | pun |
+| l'equivoque | equivocation |
+| quid pro quo | one thing for another |
 
 ## Chapter Continuity
 
@@ -164,3 +186,7 @@ Common settled glosses:
 - Chapter 0010: reason's single function is "formation of the concept."
 - Chapter 0011: translate `Sphaere` as "sphere" in logical diagrams and `Umfang` as "extension" when paired with it.
 - Chapter 0012: translate `Wissen` as "knowledge" and reserve "cognition" for technical uses of `Erkenntnis`.
+- Chapter 0013: `Gefuehl` is a negative catch-all for non-conceptual contents of consciousness; translate as "feeling" but do not imply mere emotion.
+- Chapter 0014: abstract knowledge does not enlarge intuitive cognition, but makes it preservable, communicable, plannable, and applicable.
+- Chapter 0014: art and bodily skill should keep the contrast between immediate intuitive guidance and reflection/concepts.
+- Chapter 0015: laughter arises from sudden incongruence between concept and intuitive object; keep the contrast between wit, foolishness, pedantry, and wordplay.
