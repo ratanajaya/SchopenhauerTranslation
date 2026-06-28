@@ -34,6 +34,9 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | abstrakte Erkenntnis | abstract cognition | Opposed to intuitive cognition. |
 | Wissen | knowledge | Chapter 0012 defines this as abstract consciousness fixed in concepts. |
 | Wissenschaft | science | Means systematic knowledge, not only natural science. |
+| wissenschaftliche Form | scientific form | Chapter 0016 defines science by systematic form, not by greater certainty. |
+| Systematische Form | systematic form | Essential mark of science: ordered descent from universal to particular. |
+| Subordination / Koordination | subordination / coordination | Use for relations among propositions or concept-spheres in science. |
 | Mitteilbarkeit | communicability | Chapter 0014 emphasizes this as a chief value of abstract knowledge. |
 | Anschaulichkeit | intuitiveness | Use for the quality of being intuitive or visually/intuitively present. |
 | Bestimmtheit | determinacy | Use especially where abstract knowledge gains exactness. |
@@ -73,6 +76,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Dummheit | stupidity | Dullness in applying causality. |
 | Thorheit / Torheit | folly | Lack of practical application of reason. |
 | Urteilskraft | power of judgment | Keep distinct from stupidity and folly. |
+| reflektierende / subsumierende Urteilskraft | reflective / subsumptive power of judgment | Kantian division used in chapter 0016. |
 | Einfalt | simple-mindedness | Paired with lack of judgment. |
 | Gedaechtnis | memory | Lack of memory is tied to madness later. |
 | Wahnsinn | madness | Defined through partial or complete lack of memory. |
@@ -88,6 +92,11 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Narrheit | foolishness | Involuntary action from treating different objects alike under one concept. |
 | Pedanterei | pedantry | A form of foolishness: rule-bound application of abstract concepts where intuition/judgment is needed. |
 | Wortspiel | wordplay | A weaker, accidental analogue of wit based on one word bearing different concepts. |
+| Evidenz | evidence | Chapter 0016: ultimate/original evidence is intuitive, not proved. |
+| Beweis | proof | Proofs rest finally on unproved intuitive truths. |
+| Schluss | inference | Keep distinct from proof where possible; proofs are inferences used to ground judgments. |
+| Induktion | induction | Gathering what is given in many intuitions into an immediately grounded judgment. |
+| Hypothese | hypothesis | In astronomy, found by judgment and confirmed by induction. |
 
 ## Logic And Method Terms
 
@@ -101,6 +110,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Konstruktion | construction | Method of philosophy of nature. |
 | Organon | organon | Guiding form or principle of a science. |
 | Homogeneitaet | homogeneity | Used in chemistry/elements discussion. |
+| Spezifikation | specification | Paired with homogeneity in Kant's account of scientific ordering. |
 | Antinomie | antinomy | Contradictions arising in natural science and cognition. |
 | Objektivation | objectivation | Points ahead to will. |
 | abstracta / concreta | abstracts / concretes | Keep Latin terms and gloss them on first use in a chapter. |
@@ -116,7 +126,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 
 Use standard English forms for familiar names:
 
-Kant, Plato, Descartes, Leibniz, Wolff, Berkeley, Fichte, Thales, Democritus, Epicurus, Giordano Bruno, Eleatics, Pythagoreans, Scholastics, Baron Munchausen, Hume, Herder, Locke, Newton, Lavoisier, Buffon, Hobbes, Heraclitus, Spinoza, Pindar, Sophocles, Shakespeare, Calderon, Goethe, Schiller, Plouquet, Lambert, Euler, Rameau, Megarians, Sophists, Sextus Empiricus, Aristotle, Callisthenes, Stahl, Schleiermacher, Tennemann, Seneca, van der Werff, Denner, Schopenhauer, Grisebach.
+Kant, Plato, Descartes, Leibniz, Wolff, Berkeley, Fichte, Thales, Democritus, Epicurus, Giordano Bruno, Eleatics, Pythagoreans, Scholastics, Suarez, Baron Munchausen, Hume, Herder, Locke, Newton, Kepler, Lavoisier, Buffon, Hobbes, Heraclitus, Spinoza, Pindar, Sophocles, Shakespeare, Calderon, Goethe, Schiller, Plouquet, Lambert, Euler, Rameau, Megarians, Sophists, Sextus Empiricus, Aristotle, Callisthenes, Stahl, Schleiermacher, Tennemann, Seneca, van der Werff, Denner, Schopenhauer, Grisebach.
 
 Use these title forms:
 
@@ -125,6 +135,7 @@ Use these title forms:
 | Grundprobleme der Ethik | Two Fundamental Problems of Ethics |
 | Ueber das Sehen und die Farben | On Vision and Colors |
 | Metaphysische Anfangsgruende der Naturwissenschaft | Metaphysical Foundations of Natural Science |
+| Disputationes metaphysicae | Metaphysical Disputations |
 | Kritik der reinen Vernunft | Critique of Pure Reason |
 | Die vierfache Wurzel des Satzes vom Grunde | The Fourfold Root of the Principle of Sufficient Reason |
 | Essay on human understanding | An Essay Concerning Human Understanding |
@@ -174,6 +185,9 @@ Common settled glosses:
 | calembourg | pun |
 | l'equivoque | equivocation |
 | quid pro quo | one thing for another |
+| explicite / implicite | explicitly / implicitly |
+| genus | genus |
+| terminus minor / medius / major | minor term / middle term / major term |
 
 ## Chapter Continuity
 
@@ -190,3 +204,5 @@ Common settled glosses:
 - Chapter 0014: abstract knowledge does not enlarge intuitive cognition, but makes it preservable, communicable, plannable, and applicable.
 - Chapter 0014: art and bodily skill should keep the contrast between immediate intuitive guidance and reflection/concepts.
 - Chapter 0015: laughter arises from sudden incongruence between concept and intuitive object; keep the contrast between wit, foolishness, pedantry, and wordplay.
+- Chapter 0016: science is defined by systematic form and completeness, not by greater certainty; proof ultimately rests on intuitive evidence.
+- Chapter 0016: the power of judgment mediates between intuition/understanding and abstract reason by fixing intuitive cognition in concepts.
