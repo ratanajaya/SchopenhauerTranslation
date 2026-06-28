@@ -16,11 +16,13 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | --- | --- | --- |
 | Vorstellung | representation | Central term. Avoid "idea" unless context clearly demands it. |
 | Wille | will | Keep simple and direct. |
+| Objektivation des Willens | objectivation of the will | Book Two heading; keep "objectivation" consistent. |
 | Die Welt als Wille und Vorstellung | The World as Will and Representation | Standard title. |
 | Satz vom Grunde | principle of sufficient reason | Established translation. |
 | Grund des Seins / Seyns | ground of being | Form of the principle in time and space. |
 | Grund des Erkennens / Erkenntnisgrund | ground of knowing | Use "ground of knowledge" only when English syntax needs it. |
 | Grund des Werdens | ground of becoming | Causal form of the principle. |
+| Grund des Handelns | ground of acting | One of the forms of the principle of sufficient reason, named in chapter 0017. |
 | Grund und Folge | ground and consequent | Keep this pairing. |
 | Ding an sich | thing in itself | Kantian term. |
 | Erscheinung | appearance | Use "phenomenon" only in tightly Kantian contexts. |
@@ -50,6 +52,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | unmittelbares Objekt | immediate object | The body as immediate object. |
 | Erkennbarkeit | knowability | The side of the world considered in Book One. |
 | Vernunft | reason | Reason forms concepts. |
+| praktische Vernunft | practical reason | Chapter 0018: reason guiding action through abstract motives; distinct from Kant's alleged moral faculty. |
 | Vernunfterkenntnis | rational cognition | Use "pure rational cognition" for `reine Vernunfterkenntnis`. |
 | reine Vernunftwissenschaft | pure science of reason | Logic has this status only in a qualified sense. |
 | Vernehmen | apprehending / becoming aware | Used to explain `Vernunft`; do not reduce to hearing. |
@@ -57,6 +60,8 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | reiner Verstand | pure understanding | Immediate causal cognition underlying intuition. |
 | Kausalitaet | causality | Source spelling may vary. |
 | Materie | matter | Watch metaphysical versus physical context. |
+| Naturkraft | natural force | Chapter 0019: inner force presupposed but not explained by aetiology. |
+| Naturgesetz | law of nature | Regular manifestation of a natural force under known conditions. |
 | Wirklichkeit | actuality | Use when Schopenhauer contrasts it with `Realitaet` or dream/phantasm. |
 | Realitaet der Aussenwelt | reality of the external world | Recurring problem in early chapters. |
 | empirische Realitaet | empirical reality | Pair with transcendental ideality. |
@@ -71,6 +76,8 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Reiz / Motiv | stimulus / motive | Plant movement by stimuli; animal movement by motives. |
 | Besonnenheit | reflective awareness | Watch: may need "self-possession" or "composure" in later contexts. |
 | Maxime | maxim | Practical reasoning. |
+| Soll | ought | Use for Kant's absolute moral ought; keep polemical context. |
+| guter Wille | good will | In chapter 0018, Schopenhauer contrasts immediate good will with Kantian action from abstract maxims. |
 | Klugheit | prudence | Practical understanding in service of the will. |
 | Scharfsinn / Sagacitaet | acuteness / sagacity | Sharp understanding, especially practical or scientific. |
 | Dummheit | stupidity | Dullness in applying causality. |
@@ -80,7 +87,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Einfalt | simple-mindedness | Paired with lack of judgment. |
 | Gedaechtnis | memory | Lack of memory is tied to madness later. |
 | Wahnsinn | madness | Defined through partial or complete lack of memory. |
-| Irrtum | error | Deception of reason. |
+| Irrtum | error | Deception of reason; chapter 0017 defines it as an inference from consequent to ground. |
 | Schein | semblance | Deception of understanding; oppose to reality. |
 | Sorge / Reue | care / remorse | Effects of abstract practical cognition. |
 | Idee | Idea / idea | Capitalize in Platonic contexts; otherwise use lowercase. |
@@ -97,6 +104,16 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Schluss | inference | Keep distinct from proof where possible; proofs are inferences used to ground judgments. |
 | Induktion | induction | Gathering what is given in many intuitions into an immediately grounded judgment. |
 | Hypothese | hypothesis | In astronomy, found by judgment and confirmed by induction. |
+| Erklaerung | explanation | Demonstration of a relation under the relevant form of the principle of sufficient reason. |
+| Inhalt der Wissenschaften | content of the sciences | Chapter 0017: relations among appearances under the principle of sufficient reason. |
+| Philosophie | philosophy | Begins where the sciences stop; asks what the world is, not its external why. |
+| Morphologie | morphology | Descriptive natural science of enduring forms. |
+| Aetiologie | aetiology | Explanatory natural science of changes according to cause and effect. |
+| Stoischer Weiser | Stoic sage | Ideal of practical reason, but criticized as lifeless and abstract. |
+| Stoische Ethik | Stoic ethics | Treated as rational eudaimonism, not originally a doctrine of virtue. |
+| Ataraxie / ataraxia | ataraxia / undisturbedness | Stoic peace of mind; gloss on first use. |
+| Eudaemonismus | eudaimonism | Use for ethics aiming at happiness/blessedness. |
+| Glueckseligkeit | blessedness / happiness | Choose by context; "blessedness" in ethical-system contexts, "happiness" in ordinary ones. |
 
 ## Logic And Method Terms
 
@@ -121,18 +138,20 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | metalogisch | metalogical | Truths/laws of thought tied to logical grounds. |
 | Technik der Vernunft | technique of reason | Formal procedures of judging and inferring. |
 | Ueberredungskunst | art of persuasion | One-sided treatment of concept-spheres. |
+| Euklidische Methode | Euclidean method | Chapter 0017 criticizes logical proof in geometry for separating that something is so from why it is so. |
+| analytische / synthetische Methode | analytic / synthetic method | Schopenhauer favors analytic presentation of mathematics over Euclid's synthetic method. |
+| apagogischer Beweis | apagogic proof | Proof by excluding alternatives; keep this technical term. |
 
 ## Names And Titles
 
 Use standard English forms for familiar names:
 
-Kant, Plato, Descartes, Leibniz, Wolff, Berkeley, Fichte, Thales, Democritus, Epicurus, Giordano Bruno, Eleatics, Pythagoreans, Scholastics, Suarez, Baron Munchausen, Hume, Herder, Locke, Newton, Kepler, Lavoisier, Buffon, Hobbes, Heraclitus, Spinoza, Pindar, Sophocles, Shakespeare, Calderon, Goethe, Schiller, Plouquet, Lambert, Euler, Rameau, Megarians, Sophists, Sextus Empiricus, Aristotle, Callisthenes, Stahl, Schleiermacher, Tennemann, Seneca, van der Werff, Denner, Schopenhauer, Grisebach.
+Kant, Plato, Descartes, Leibniz, Wolff, Duns Scotus, Berkeley, Fichte, Thales, Democritus, Epicurus, Giordano Bruno, Euclid, Eleatics, Pythagoreans, Scholastics, Stoics, Peripatetics, Suarez, Baron Munchausen, Hume, Herder, Locke, Newton, Kepler, Proclus, Pyrrho, Bacon of Verulam, Antisthenes, Chrysippus, Cleanthes, Zeno, Epictetus, Stobaeus, Cicero, Diogenes Laertius, Plutarch, Lavoisier, Buffon, Hobbes, Heraclitus, Spinoza, Pindar, Sophocles, Shakespeare, Calderon, Goethe, Schiller, Plouquet, Lambert, Euler, Rameau, Megarians, Sophists, New Academics, Sextus Empiricus, Aristotle, Callisthenes, Stahl, Schleiermacher, Tennemann, Seneca, Kosack, van der Werff, Denner, Schopenhauer, Grisebach.
 
 Use these title forms:
 
 | Source title | English form |
 | --- | --- |
-| Grundprobleme der Ethik | Two Fundamental Problems of Ethics |
 | Ueber das Sehen und die Farben | On Vision and Colors |
 | Metaphysische Anfangsgruende der Naturwissenschaft | Metaphysical Foundations of Natural Science |
 | Disputationes metaphysicae | Metaphysical Disputations |
@@ -150,6 +169,14 @@ Use these title forms:
 | Metakritik | Metacritique |
 | Asiatic researches | Asiatic Researches |
 | Parerga | Parerga |
+| Triumph der Empfindsamkeit | The Triumph of Sensibility |
+| de harmonia mundi | On the Harmony of the World |
+| Analytica posteriora | Posterior Analytics |
+| De augmentis scientiarum | On the Advancement of Learning |
+| Grundprobleme der Ethik | Two Fundamental Problems of Ethics |
+| Ethica | Ethics |
+| Tusculanae disputationes | Tusculan Disputations |
+| Paradoxa | Paradoxa |
 
 ## Foreign-Language Quotes
 
@@ -188,6 +215,19 @@ Common settled glosses:
 | explicite / implicite | explicitly / implicitly |
 | genus | genus |
 | terminus minor / medius / major | minor term / middle term / major term |
+| phainomenon / nooumenon | appearance / object of thought |
+| more geometrico | in the geometric manner |
+| substantia | substance |
+| causa sui | cause of itself |
+| ex firmis principiis | from firm principles |
+| causa efficiens / causa finalis | efficient cause / final cause |
+| ergo | therefore |
+| ergo bibamus | therefore, let us drink |
+| per accidens | accidentally |
+| unite de plan | unity of plan |
+| suum utile quaerere | to seek one's own advantage |
+| aut mentem parandam, aut laqueum | either one must prepare the mind, or prepare a noose |
+| bonum et malum | good and evil |
 
 ## Chapter Continuity
 
@@ -206,3 +246,10 @@ Common settled glosses:
 - Chapter 0015: laughter arises from sudden incongruence between concept and intuitive object; keep the contrast between wit, foolishness, pedantry, and wordplay.
 - Chapter 0016: science is defined by systematic form and completeness, not by greater certainty; proof ultimately rests on intuitive evidence.
 - Chapter 0016: the power of judgment mediates between intuition/understanding and abstract reason by fixing intuitive cognition in concepts.
+- Chapter 0017: in mathematics, intuitive evidence from the ground of being is preferred to Euclidean logical proof; keep the that/why contrast.
+- Chapter 0017: error is an inference from consequent to ground based on a falsely overgeneralized major premise.
+- Chapter 0017: philosophy does not seek a world-cause or world-purpose, but asks what the world is and mirrors it in abstract concepts.
+- Chapter 0018: practical reason means action guided by abstract concepts; it is independent of ethical worth and can serve good or evil.
+- Chapter 0018: Stoic ethics is treated as rational eudaimonism aimed at happiness through peace of mind, not as pure virtue ethics.
+- Chapter 0019: Book Two begins the move from representation to will; mathematics and natural science still leave the inner meaning of appearances unexplained.
+- Chapter 0019: morphology classifies forms; aetiology orders causal changes but cannot explain the inner essence of natural forces.

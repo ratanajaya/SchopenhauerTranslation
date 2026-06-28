@@ -137,3 +137,6 @@ The whole-book translation is complete when:
 14. `chapter-0014.md` - section 12, abstract knowledge, application, and intuition
 15. `chapter-0015.md` - section 13, laughter, wit, foolishness, and pedantry
 16. `chapter-0016.md` - section 14, science, proof, evidence, and judgment
+17. `chapter-0017.md` - section 15, mathematics, error, explanation, and philosophy
+18. `chapter-0018.md` - section 16, practical reason and Stoic ethics
+19. `chapter-0019.md` - section 17, opening of Book Two and objectivation of the will
