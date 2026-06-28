@@ -132,3 +132,4 @@ The whole-book translation is complete when:
 9. `chapter-0009.md` - section 7, representation as starting point
 10. `chapter-0010.md` - section 8, reflection, concepts, and reason
 11. `chapter-0011.md` - section 9, concepts, logic, and persuasion
+12. `chapter-0012.md` - section 10, certainty, knowledge, and science

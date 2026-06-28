@@ -29,7 +29,11 @@ This file is the running record for translation choices, terminology, open quest
 | Reflexion | reflection | Active | Chapter 0010 introduces reflection as the abstract reflected light of intuitive cognition. |
 | abstrakte Erkenntnis | abstract cognition | Active | Chapter 0010 contrasts this with intuitive cognition. |
 | diskursive Begriffe | discursive concepts | Active | Chapter 0010 uses this for the concepts of reason. |
+| Vernunfterkenntnis | rational cognition | Active | Chapter 0012 uses this for cognition proper to reason; use "pure rational cognition" for `reine Vernunfterkenntnis`. |
 | Erkenntnis | cognition / knowledge | Watch | Choose by context. Record chapter-specific decisions below. |
+| Gewissheit | certainty | Active | Chapter 0012 opens the question of how certainty is attained. |
+| Wissen | knowledge | Active | Chapter 0012 defines knowledge as abstract consciousness: true judgments held ready for voluntary reproduction. |
+| Wissenschaft | science | Active | Use broadly for systematic knowledge, not only natural science. |
 | Gemeingefühl | common sensation | Active | Chapter 0008 uses this for bodily feeling that does not yet present the body's shape as object. |
 | Maja | Maya | Active | Use the standard English/Sanskrit form for the veil of illusion discussed in chapter 0005. |
 | Träger | bearer | Active | Used in chapter 0004 for the subject as "bearer of the world." |
@@ -49,6 +53,7 @@ This file is the running record for translation choices, terminology, open quest
 | reine Sinnlichkeit | pure sensibility | Active | Kantian term retained in chapter 0006. |
 | Erkenntnisvermögen | faculty of cognition | Active | Used in chapter 0006 for a determination in the subject. |
 | Vernunft | reason | Active | In Kantian contexts, preserve technical meaning. |
+| reine Vernunftwissenschaft | pure science of reason | Active | Chapter 0012 allows logic this status only in a qualified sense. |
 | Vernehmen | apprehending / becoming aware | Active | Chapter 0010 explains `Vernunft` through `Vernehmen`, not mere hearing. |
 | Verstand | understanding / intellect | Watch | Choose according to Kantian or Schopenhauerian context. |
 | reiner Verstand | pure understanding | Active | Chapter 0006 uses this for immediate causal cognition underlying intuition. |
@@ -262,3 +267,5 @@ Add notes here when a later chapter forces a change to an earlier translation ch
 - In chapter 0010, reason's single function is "formation of the concept"; preserve this formulation.
 - In chapter 0010, keep the contrast: understanding has immediate cognition of causality, reason forms concepts.
 - From chapter 0003 onward, translations should improve English paragraphing rather than mirror the source paragraph structure one-to-one.
+- In chapter 0012, translate `Wissen` as "knowledge" and reserve "cognition" for `Erkenntnis`; knowledge is defined as abstract consciousness fixed in concepts.
+- In chapter 0012, keep logic's status as a "pure science of reason" qualified: it presupposes concepts, but not their determinate content.
