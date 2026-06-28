@@ -14,6 +14,8 @@ This file is the running record for translation choices, terminology, open quest
 | Ding an sich | thing in itself | Active | Established Kantian term. |
 | Erscheinung | appearance | Active | Consider "phenomenon" in tightly Kantian contexts. |
 | Anschauung | intuition | Active | Especially important in Kantian passages. |
+| Succession | succession | Active | Chapter 0006 identifies succession as the whole essence of time. |
+| Lage | position | Active | Chapter 0006 uses this for reciprocal determination of parts of space. |
 | intuitive Vorstellung | intuitive representation | Active | Chapter 0005 contrasts intuitive and abstract representations. |
 | abstrakte Vorstellung | abstract representation | Active | Chapter 0005 contrasts intuitive and abstract representations. |
 | Begriff | concept | Active | Chapter 0005 treats concepts as the sole class of abstract representations. |
@@ -26,8 +28,17 @@ This file is the running record for translation choices, terminology, open quest
 | unmittelbares Objekt | immediate object | Active | Used in chapter 0004 for the body as the subject's immediate object. |
 | Kausalität | causality | Active | Source may use older spelling. |
 | Materie | matter | Active | Watch for metaphysical versus physical context. |
+| Wirklichkeit | actuality | Active | Chapter 0006 contrasts the German word with "reality"; use "actuality" when preserving the distinction. |
+| Wirken / Wirksamkeit | acting / efficacy | Active | Chapter 0006 defines matter through acting and efficacy. |
+| Zugleichseyn | coexistence | Active | Chapter 0006 treats coexistence as central to actuality. |
+| Dauer | duration | Active | Chapter 0006 derives duration from coexistence. |
+| Substanz | substance | Active | Chapter 0006 identifies substance with matter. |
+| Accidenz | accident | Active | Chapter 0006 pairs accident with quality. |
+| reine Sinnlichkeit | pure sensibility | Active | Kantian term retained in chapter 0006. |
+| Erkenntnisvermögen | faculty of cognition | Active | Used in chapter 0006 for a determination in the subject. |
 | Vernunft | reason | Active | In Kantian contexts, preserve technical meaning. |
 | Verstand | understanding / intellect | Watch | Choose according to Kantian or Schopenhauerian context. |
+| reiner Verstand | pure understanding | Active | Chapter 0006 uses this for immediate causal cognition underlying intuition. |
 | Idee | Idea / idea | Watch | Capitalization may matter in Platonic contexts. |
 | empirische Realität | empirical reality | Active | Paired in chapter 0003 with "transcendental ideality." |
 | transscendentale Idealität | transcendental ideality | Active | Preserve the philosophical pairing with empirical reality. |
@@ -50,6 +61,8 @@ This file is the running record for translation choices, terminology, open quest
 | Arthur Schopenhauer | Arthur Schopenhauer | Preserve. |
 | Eduard Grisebach | Eduard Grisebach | Preserve. |
 | Grundprobleme der Ethik | Two Fundamental Problems of Ethics | Used in the chapter 0005 footnote. |
+| Über das Sehen und die Farben | On Vision and Colors | Used in chapter 0006. |
+| Metaphysische Anfangsgründe der Naturwissenschaft | Metaphysical Foundations of Natural Science | Kant title used in chapter 0006. |
 
 ## Non-German Quote Handling
 
@@ -102,6 +115,7 @@ Use inline format for short phrases:
 | `Sors de l'enfance, ami, réveille-toi!` | Leave childhood behind, friend; wake up! | chapter-0003.md |
 | `the fundamental tenet of the Vedanta school consisted not in denying...` | English in original; corresponding German footnote translated in chapter 0003. | chapter-0003.md |
 | `in abstracto` | in the abstract | chapter-0005.md |
+| `Mira in quibusdam rebus verborum proprietas est, et consuetudo sermonis antiqui quaedam efficacissimis notis signat.` | There is a wonderful aptness of words in certain matters, and the usage of ancient speech marks certain things with the most effective signs. | chapter-0006.md |
 
 ## Revision Notes
 
@@ -112,4 +126,6 @@ Add notes here when a later chapter forces a change to an earlier translation ch
 - In chapter 0003, `Erkenntniß` was translated as "cognition" when referring to the field of what exists for knowing; continue to prefer "cognition" in technical epistemological contexts.
 - In chapter 0004, `Erkenntniß` continues as "cognition" in technical contexts, especially "object of cognition" and "`a priori` certain cognition."
 - In chapter 0005, use "grounding" for `Begründung` when Schopenhauer discusses the law of the grounding of judgments.
+- In chapter 0006, use "understanding" for `Verstand`, since Schopenhauer defines it as the faculty of causal cognition that makes intuition possible.
+- In chapter 0006, use "actuality" for `Wirklichkeit` when Schopenhauer explicitly contrasts it with `Realität`.
 - From chapter 0003 onward, translations should improve English paragraphing rather than mirror the source paragraph structure one-to-one.

@@ -126,3 +126,4 @@ The whole-book translation is complete when:
 3. `chapter-0003.md` - opening of Book One, section 1
 4. `chapter-0004.md` - section 2, subject and object
 5. `chapter-0005.md` - section 3, intuitive and abstract representation
+6. `chapter-0006.md` - section 4, matter, causality, and understanding
