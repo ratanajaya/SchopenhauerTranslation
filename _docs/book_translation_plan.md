@@ -127,3 +127,8 @@ The whole-book translation is complete when:
 4. `chapter-0004.md` - section 2, subject and object
 5. `chapter-0005.md` - section 3, intuitive and abstract representation
 6. `chapter-0006.md` - section 4, matter, causality, and understanding
+7. `chapter-0007.md` - section 5, external world, dreams, and will
+8. `chapter-0008.md` - section 6, body, animal understanding, and semblance
+9. `chapter-0009.md` - section 7, representation as starting point
+10. `chapter-0010.md` - section 8, reflection, concepts, and reason
+11. `chapter-0011.md` - section 9, concepts, logic, and persuasion
