@@ -17,6 +17,10 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Vorstellung | representation | Central term. Avoid "idea" unless context clearly demands it. |
 | Wille | will | Keep simple and direct. |
 | Objektivation des Willens | objectivation of the will | Book Two heading; keep "objectivation" consistent. |
+| Objektitaet des Willens | objecthood of the will | Chapter 0020: the body considered as will that has become representation; keep distinct from `Objektivation`. |
+| Objektivierung / Objektivirung | objectivation | Use for the process by which will becomes object/representation; keep aligned with "objectivation of the will." |
+| Willensakt | act of will | Chapter 0020 identifies every genuine act of will with an appearing action of the body, not as cause with effect. |
+| Willenserscheinung | appearance of will | Chapter 0021: use when the body or other bodies are considered as appearances of will. |
 | Die Welt als Wille und Vorstellung | The World as Will and Representation | Standard title. |
 | Satz vom Grunde | principle of sufficient reason | Established translation. |
 | Grund des Seins / Seyns | ground of being | Form of the principle in time and space. |
@@ -50,6 +54,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Bewusstsein | consciousness | Use modern spelling in notes. |
 | Subjekt / Objekt | subject / object | Preserve the pairing. |
 | unmittelbares Objekt | immediate object | The body as immediate object. |
+| Leib | body | Chapter 0020: body is given both as representation among representations and immediately as will. |
 | Erkennbarkeit | knowability | The side of the world considered in Book One. |
 | Vernunft | reason | Reason forms concepts. |
 | praktische Vernunft | practical reason | Chapter 0018: reason guiding action through abstract motives; distinct from Kant's alleged moral faculty. |
@@ -76,6 +81,7 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Reiz / Motiv | stimulus / motive | Plant movement by stimuli; animal movement by motives. |
 | Besonnenheit | reflective awareness | Watch: may need "self-possession" or "composure" in later contexts. |
 | Maxime | maxim | Practical reasoning. |
+| empirischer Charakter / intelligibler Charakter | empirical character / intelligible character | Chapter 0022, Kantian distinction: motives explain action only on the presupposition of empirical character; will itself is groundless. |
 | Soll | ought | Use for Kant's absolute moral ought; keep polemical context. |
 | guter Wille | good will | In chapter 0018, Schopenhauer contrasts immediate good will with Kantian action from abstract maxims. |
 | Klugheit | prudence | Practical understanding in service of the will. |
@@ -90,8 +96,13 @@ Use this file as the compact source of truth for future chapters. Add only decis
 | Irrtum | error | Deception of reason; chapter 0017 defines it as an inference from consequent to ground. |
 | Schein | semblance | Deception of understanding; oppose to reality. |
 | Sorge / Reue | care / remorse | Effects of abstract practical cognition. |
+| Schmerz / Wohlbehagen / Wollust | pain / well-being / pleasure | Chapter 0020: not representations, but immediate affections of the will in its appearance, the body. |
 | Idee | Idea / idea | Capitalize in Platonic contexts; otherwise use lowercase. |
 | Maja | Maya | Use the standard English/Sanskrit form. |
+| theoretischer Egoismus | theoretical egoism | Chapter 0021: skeptical solipsistic position that treats all appearances except one's own individual as phantoms. |
+| praktischer Egoismus | practical egoism | Chapter 0021: practical analogue of theoretical egoism, treating only one's own person as truly real. |
+| Zweckmaessigkeit | purposiveness | Chapter 0022: body appears as purposiveness, i.e. teleological explicability, through its fit to the will. |
+| Geschlechtstrieb | sexual drive | Chapter 0022: genitals as objectified sexual drive. |
 | Physiognomik / Pathognomik | physiognomics / pathognomics | Chapter 0014 treats these as intuitive, not teachable `in abstracto`. |
 | Lachen | laughter | Chapter 0015 explains it as the expression of a suddenly perceived incongruence between concept and object. |
 | das Laecherliche | the ludicrous | Use for Schopenhauer's technical account of what provokes laughter. |
@@ -173,10 +184,12 @@ Use these title forms:
 | de harmonia mundi | On the Harmony of the World |
 | Analytica posteriora | Posterior Analytics |
 | De augmentis scientiarum | On the Advancement of Learning |
+| de planeta Martis | On the Planet Mars |
 | Grundprobleme der Ethik | Two Fundamental Problems of Ethics |
 | Ethica | Ethics |
 | Tusculanae disputationes | Tusculan Disputations |
 | Paradoxa | Paradoxa |
+| Metaphysics | Metaphysics |
 
 ## Foreign-Language Quotes
 
@@ -228,6 +241,9 @@ Common settled glosses:
 | suum utile quaerere | to seek one's own advantage |
 | aut mentem parandam, aut laqueum | either one must prepare the mind, or prepare a noose |
 | bonum et malum | good and evil |
+| kat' exochen | par excellence |
+| functiones animales | animal functions |
+| functiones naturales, vitales | natural, vital functions |
 
 ## Chapter Continuity
 
@@ -253,3 +269,13 @@ Common settled glosses:
 - Chapter 0018: Stoic ethics is treated as rational eudaimonism aimed at happiness through peace of mind, not as pure virtue ethics.
 - Chapter 0019: Book Two begins the move from representation to will; mathematics and natural science still leave the inner meaning of appearances unexplained.
 - Chapter 0019: morphology classifies forms; aetiology orders causal changes but cannot explain the inner essence of natural forces.
+- Chapter 0020: the body is given in two ways: as representation/object among objects and immediately as will.
+- Chapter 0020: acts of will and actions of the body are one and the same, given immediately and as intuition; do not render the relation as cause and effect.
+- Chapter 0020: use "objecthood of the will" for `Objektitaet des Willens`, distinct from "objectivation of the will" for `Objektivation des Willens`.
+- Chapter 0020: the identity of body and will is a distinctive "philosophical truth" that can be shown from immediate consciousness but not proved from something more immediate.
+- Chapter 0021: the analogy from one's own body extends the will from immediate self-cognition to the inner essence of all appearances in nature.
+- Chapter 0021: theoretical egoism is treated as an irrefutable skeptical sophism, not a serious philosophical stopping point.
+- Chapter 0021: when will is attributed to natural forces such as gravity, do not imply cognition or movement from known motives; cognition belongs only to higher grades of the will's appearance.
+- Chapter 0022: motives explain the appearance of individual acts only under the presupposition of empirical character; the will itself is groundless.
+- Chapter 0022: physiology explains bodily functions aetiologically, but this does not undermine the philosophical claim that the body is objectivation/objecthood of the will.
+- Chapter 0022: preserve the teleological point that bodily organs visibly express chief desires, without reducing the claim to biological design.

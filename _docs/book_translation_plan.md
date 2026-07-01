@@ -140,3 +140,6 @@ The whole-book translation is complete when:
 17. `chapter-0017.md` - section 15, mathematics, error, explanation, and philosophy
 18. `chapter-0018.md` - section 16, practical reason and Stoic ethics
 19. `chapter-0019.md` - section 17, opening of Book Two and objectivation of the will
+20. `chapter-0020.md` - section 18, body as objecthood of the will
+21. `chapter-0021.md` - section 19, analogy from one's own body to will in nature
+22. `chapter-0022.md` - section 20, motives, physiology, and body as objecthood of the will
