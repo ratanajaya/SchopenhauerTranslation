@@ -19,6 +19,7 @@ Compact source of truth for future chapters. Keep this file focused on decisions
 | Die Welt als Wille und Vorstellung | The World as Will and Representation | Standard title. |
 | Objektivation / Objektivierung des Willens | objectivation of the will | Process or grade by which will becomes object/representation. |
 | Objektitaet des Willens | objecthood of the will | Keep distinct from objectivation; the will as having become object/appearance. |
+| adaequate Objektitaet des Willens | adequate objecthood of the will | Chapter 0030 points ahead to Book Three for fuller explanation. |
 | Stufe der Objektivation des Willens | grade of the objectivation of the will | Especially important in Book Two. |
 | Sichtbarkeit | visibility | Use where forces or objects are treated as visible appearance/objecthood of will. |
 | Willensakt | act of will | Not cause of bodily action; the act and bodily action are one, viewed differently. |
@@ -26,10 +27,13 @@ Compact source of truth for future chapters. Keep this file focused on decisions
 | Ding an sich | thing in itself | Kantian term. |
 | Erscheinung | appearance | Use "phenomenon" only in tightly Kantian contexts. |
 | Idee | Idea / idea | Capitalize for Plato's Ideas as fixed grades of objectivation; lowercase otherwise. |
+| Platonische Idee | Platonic Idea | Book Three: the Idea is independent of the principle of sufficient reason and becomes the object of art. |
+| ewige Ideen / unveraenderliche Formen | eternal Ideas / unchanging forms | Plato's Ideas; keep distinct from Kantian forms of intuition and thought. |
 | Materie | matter | Watch metaphysical versus physical context. |
 | principium individuationis | principle of individuation | Time and space as the source of multiplicity in appearance. |
 | Grundlosigkeit | groundlessness | Belongs to will as thing in itself, not to its appearances. |
 | Notwendigkeit | necessity | Relation of consequent to ground; applies to appearances of will, including actions. |
+| endloses Streben | endless striving | Chapter 0031: will in itself has no final goal or limit. |
 
 ## Principle Of Sufficient Reason
 
@@ -66,6 +70,7 @@ Compact source of truth for future chapters. Keep this file focused on decisions
 | Wissenschaft | science | Means systematic knowledge, not only natural science. |
 | Beweis / Evidenz | proof / evidence | Proof ultimately rests on intuitive evidence. |
 | Schluss | inference | Keep distinct from proof where possible. |
+| immanent / transscendental | immanent / transcendental | Chapter 0033: immanent cognition follows the intellect's forms; transcendental cognition becomes conscious of those forms. |
 | Irrtum | error | Deception of reason. |
 | Schein | semblance | Deception of understanding; oppose to reality. |
 | Besonnenheit | reflective awareness | May sometimes need "self-possession" or "composure" in later contexts. |
@@ -125,6 +130,7 @@ Compact source of truth for future chapters. Keep this file focused on decisions
 | Substanz / Akzidenz | substance / accident | Keep the scholastic pairing. |
 | Maja | Maya | Use standard English/Sanskrit form. |
 | Zweckmaessigkeit | purposiveness | Teleological fit, especially body/organs as expression of will. |
+| innere / aeussere Zweckmaessigkeit | inner / outer purposiveness | Inner: organism's parts reciprocally as means and end; outer: fit among organisms and environment. |
 | Geschlechtstrieb | sexual drive | Avoid euphemism where Schopenhauer is direct. |
 | Lachen / das Laecherliche / Witz | laughter / the ludicrous / wit | Keep established theory if referenced again. |
 | Narrheit / Thorheit / Pedanterei | foolishness / folly / pedantry | Preserve distinctions if they recur. |
@@ -199,8 +205,12 @@ Common settled glosses:
 | more geometrico | in the geometric manner |
 | causa sui | cause of itself |
 | causa efficiens / causa finalis | efficient cause / final cause |
+| consensus naturae | consensus of nature |
 | l'unite de plan | unity of plan |
 | l'uniformite de l'element anatomique | uniformity of the anatomical element |
+| Ti to on men aei... | What is that which always is and has no becoming? And what is that which becomes and passes away, but never truly is? |
+| ontos on | that which truly is |
+| episteme / doxa | genuine cognition / opinion |
 | generatio aequivoca | spontaneous generation |
 | Encheiresin naturae | operation of nature |
 | serpens, nisi serpentem comederit, non fit draco | a serpent, unless it has eaten a serpent, does not become a dragon |
@@ -210,15 +220,27 @@ Common settled glosses:
 | aut mentem parandam, aut laqueum | either one must prepare the mind, or prepare a noose |
 | bonum et malum | good and evil |
 | kat' exochen | par excellence |
+| languor | languor |
 
 ## Continuity For Future Chapters
 
-- The translation has reached the end of `chapter-0029.md`, section 27.
-- Book Two has moved from the world as representation to the will as thing in itself, then to grades of objectivation in nature.
+- The translation has reached the end of `chapter-0033.md`, section 31.
+- Book Two has moved from the world as representation to the will as thing in itself, then to grades of objectivation, conflict, and teleology in nature.
 - Preserve the distinction between will itself, which is groundless and outside the principle of sufficient reason, and individual appearances of will, which require causes, stimuli, or motives.
 - Do not use metaphysical will as a substitute for physical explanation. Aetiology explains the conditions for individual appearances; philosophy interprets the original forces as grades of will.
 - Organic life should not be reduced to mechanism, chemism, electricity, or other lower forces. Lower forces persist within organisms only as subordinated and transformed by a higher Idea.
 - The conflict among grades of will is now a central continuity point: each grade contests matter, space, and time with others; this anticipates later claims about suffering, self-division, and the will to life.
 - Cognition has been introduced as a `μηχανη` (contrivance) of the will: first intuitive cognition for animal movement by motives, then reason for human deliberation.
 - With cognition come semblance, deception, and error; reason improves range and abstraction but also introduces uncertainty.
-- The closing of chapter 0029 points ahead to Book Three's aesthetic cognition, where cognition can become a clear mirror of the world, and Book Four's resignation or self-cancellation of the will.
+- Chapter 0030 treats purposiveness as belonging to appearance, not the thing in itself: the unity of the Idea appears in organisms as reciprocal means/end relations among parts, and in nature as adaptation among species and conditions.
+- Keep the Kantian distinction between empirical and intelligible character active: empirical character unfolds in time; intelligible character is the extra-temporal act of will or Idea.
+- Outer purposiveness should not become providential design. It is the timeless agreement of appearances of the one will, seen by us as adaptation in time.
+- The harmony of nature only preserves species and general life-conditions; it does not cancel the conflict among individuals and natural forces.
+- Chapter 0029 and 0030 both point ahead to Book Three's aesthetic cognition and the later explanation of "adequate objecthood of the will."
+- Chapter 0031 clarifies that only individual appearances and individual acts have causes, motives, or ends; the will itself is groundless and has no final goal. Render this as endless striving, not as pursuit of a hidden purpose.
+- Book Three begins "the world as representation, second consideration": representation independent of the principle of sufficient reason, the Platonic Idea, and the object of art.
+- The Ideas are the determinate grades of the objectivation of the will, but unlike individuals they do not enter time, space, causality, multiplicity, or change.
+- If the Ideas become objects of cognition, this requires cancellation of individuality in the knowing subject. This is the starting point for the aesthetics chapters.
+- Chapter 0033 aligns Kant's thing in itself with will and Plato's Ideas with immediate objecthood of will at determinate grades. They are closely related but not identical.
+- Do not confuse Plato's Ideas with Kant's `a priori` forms. Kant's forms restrict individual cognition to appearance; Plato's Ideas are known only when those forms, as governing individuation, are transcended.
+- Schopenhauer frames Book Three as explaining how transcendental insight can arise intuitively, not only `in abstracto` through Kantian critique.

@@ -150,3 +150,7 @@ The whole-book translation is complete when:
 27. `chapter-0027.md` - section 25, unity of will, grades of objectivation, and Plato's Ideas
 28. `chapter-0028.md` - section 26, natural forces, laws of nature, and occasional causes
 29. `chapter-0029.md` - section 27, aetiology, vital force, conflict among grades of will, and cognition
+30. `chapter-0030.md` - section 28, unity of will, teleology, inner and outer purposiveness
+31. `chapter-0031.md` - section 29, end of Book Two, will as endless striving
+32. `chapter-0032.md` - section 30, opening of Book Three, Platonic Idea as object of art
+33. `chapter-0033.md` - section 31, Kant's thing in itself and Plato's Ideas
