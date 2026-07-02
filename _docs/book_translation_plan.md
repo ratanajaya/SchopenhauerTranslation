@@ -149,3 +149,4 @@ The whole-book translation is complete when:
 26. `chapter-0026.md` - section 24, forms of cognition, limits of aetiology, and will as inner essence
 27. `chapter-0027.md` - section 25, unity of will, grades of objectivation, and Plato's Ideas
 28. `chapter-0028.md` - section 26, natural forces, laws of nature, and occasional causes
+29. `chapter-0029.md` - section 27, aetiology, vital force, conflict among grades of will, and cognition
