@@ -154,3 +154,8 @@ The whole-book translation is complete when:
 31. `chapter-0031.md` - section 29, end of Book Two, will as endless striving
 32. `chapter-0032.md` - section 30, opening of Book Three, Platonic Idea as object of art
 33. `chapter-0033.md` - section 31, Kant's thing in itself and Plato's Ideas
+34. `chapter-0034.md` - section 32, Idea as adequate objecthood and time as fragmented view of the eternal Ideas
+35. `chapter-0035.md` - section 33, cognition serving the will and the subject's change in aesthetic cognition
+36. `chapter-0036.md` - section 34, pure will-less subject of cognition and aesthetic contemplation of the Idea
+37. `chapter-0037.md` - section 35, Ideas distinguished from their appearances in nature and history
+38. `chapter-0038.md` - section 36, art, genius, imagination, and the kinship of genius with madness

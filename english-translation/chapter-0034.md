@@ -1,0 +1,21 @@
+# §. 32.
+
+As a result of our previous reflections, despite all the inner agreement between Kant and Plato, and despite the identity of the goal that hovered before both of them, or of the world-view that stirred and guided them into philosophizing, Idea and thing in itself are still not simply one and the same for us. Rather, for us the Idea is only the immediate, and therefore adequate, objecthood of the thing in itself; but this thing in itself is the *will*, the will insofar as it is not yet objectified, not yet become representation.
+
+For the thing in itself, precisely according to Kant, is supposed to be free from all forms attached to cognition as such. It is only a mistake of Kant's, as will be shown in the appendix, that he did not count among these forms, before all others, being-object-for-a-subject, since this is precisely the first and most universal form of all appearance, that is, representation. He should therefore have expressly denied object-being to his thing in itself; this would have saved him from that great inconsistency which was exposed early on.
+
+The Platonic Idea, by contrast, is necessarily object, something cognized, a representation; and just by this, but also only by this, it is different from the thing in itself. It has merely laid aside the subordinate forms of appearance, all of which we comprehend under the principle of sufficient reason; or rather, it has not yet entered into them. But it has retained the first and most universal form, that of representation in general, of object-being for a subject.
+
+It is these forms subordinate to that first one, whose general expression is the principle of sufficient reason, that multiply the Idea into individual and perishable individuals, whose number is entirely indifferent in relation to the Idea. The principle of sufficient reason is therefore again the form into which the Idea enters when it falls into the cognition of the subject as individual.
+
+The individual thing that appears in accordance with the principle of sufficient reason is therefore only a mediated objectivation of the thing in itself, which is the will. Between the will and the individual thing there still stands the Idea, as the sole immediate objecthood of the will, since it has taken on no form proper to cognition as such except that of representation in general, that is, of object-being for a subject.
+
+Therefore it alone is also the most nearly *adequate objecthood* of the will, or thing in itself; indeed, it is the whole thing in itself, only under the form of representation. Here lies the ground of the great agreement between Plato and Kant, although, with the greatest strictness, what the two are speaking about is not the same. Individual things, however, are not a wholly adequate objecthood of the will. In them it is already clouded by those forms whose common expression is the principle of sufficient reason, but which are the condition of cognition as it is possible for the individual as such.
+
+Indeed, if it were permissible to draw an inference from an impossible supposition, we would no longer cognize individual things at all, nor events, nor change, nor multiplicity. Instead, in pure and unclouded cognition, we would apprehend only Ideas, only the scale of the objectivation of that one will, the true thing in itself; and consequently our world would be a `Nunc stans` (a standing now, an eternal present).
+
+This would be so if we, as subject of cognition, were not at the same time individuals; that is, if our intuition were not mediated by a body, from whose affections it proceeds, and which is itself only concrete willing, objecthood of the will, and therefore object among objects. As such, once it enters knowing consciousness, it can do so only in the forms of the principle of sufficient reason; consequently it already presupposes, and thereby introduces, time and all the other forms expressed by that principle.
+
+Time is merely the distributed and fragmented view that an individual being has of the Ideas, which are outside time and therefore *eternal*. Hence Plato says that time is the moving image of eternity: `αιωνος ειϰων ϰινητη ὁ χϱονος` (time is the moving image of eternity).[^1]
+
+[^1]: On this, see chapter 29 of the second volume.
