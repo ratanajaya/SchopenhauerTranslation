@@ -1,0 +1,15 @@
+# §. 21.
+
+Whoever, through all these reflections, has also attained `in abstracto` (in the abstract), and therefore clearly and securely, the cognition that everyone possesses immediately `in concreto` (in the concrete), that is, as feeling, namely that the essence in itself of his own appearance is his *will*, will now have gained the key to the innermost essence of all nature.
+
+His own appearance presents itself to him as representation both through his actions and through their enduring substrate, his body. Its essence in itself is the will, which constitutes what is most immediate in his consciousness. Yet as such it has not completely entered into the form of representation, in which object and subject stand opposed to each other. Rather, it announces itself in an immediate way, in which subject and object are not quite distinctly separated. Even so, it does not become known to the individual as a whole, but only in its individual acts.
+
+Whoever, I say, has gained this conviction with me will find that it becomes, entirely of itself, the key to the cognition of the innermost essence of all nature. He will now transfer it also to all those appearances that are not given to him, as his own appearance is, in immediate cognition alongside mediate cognition, but only in the latter, and therefore only one-sidedly, as *representation* alone.
+
+Not only in those appearances that are wholly similar to his own, in human beings and animals, will he recognize that very same will as their innermost essence. Continued reflection will also lead him to recognize as that same will the force that drives and vegetates in the plant; the force by which the crystal forms; the force that turns the magnet toward the north pole; the force whose shock meets him from the contact of heterogeneous metals; the force that appears in the elective affinities of matter as fleeing and seeking, separating and uniting; and finally even gravity itself, which strives so powerfully in all matter, drawing the stone to the earth and the earth to the sun.
+
+All these are different only in appearance. According to their inner essence, they are one and the same: that which is known to him immediately, so intimately, and better than anything else, and which, where it comes forward most distinctly, is called *will*.
+
+This application of reflection alone keeps us from stopping at appearance and carries us over to the *thing in itself*. Appearance means representation, and nothing more. Every representation, whatever kind it may be, every *object*, is *appearance*. But the *thing in itself* is the *will* alone. As such it is absolutely not representation, but different from it `toto genere` (in kind altogether).
+
+It is that of which every representation, every object, is the appearance, the visibility, the *objecthood*. It is the innermost being, the kernel of each individual thing and likewise of the whole. It appears in every blindly acting natural force; it also appears in the deliberate action of the human being. The great difference between these two concerns only the degree of appearing, not the essence of what appears.

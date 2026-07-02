@@ -143,3 +143,9 @@ The whole-book translation is complete when:
 20. `chapter-0020.md` - section 18, body as objecthood of the will
 21. `chapter-0021.md` - section 19, analogy from one's own body to will in nature
 22. `chapter-0022.md` - section 20, motives, physiology, and body as objecthood of the will
+23. `chapter-0023.md` - section 21, will as thing in itself and inner essence of nature
+24. `chapter-0024.md` - section 22, expansion of the concept will beyond force
+25. `chapter-0025.md` - section 23, groundlessness, necessity, stimuli, and inorganic forces as will
+26. `chapter-0026.md` - section 24, forms of cognition, limits of aetiology, and will as inner essence
+27. `chapter-0027.md` - section 25, unity of will, grades of objectivation, and Plato's Ideas
+28. `chapter-0028.md` - section 26, natural forces, laws of nature, and occasional causes
