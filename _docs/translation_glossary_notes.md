@@ -2,7 +2,7 @@
 
 Compact source of truth for future chapters. Keep this file focused on decisions that are likely to recur or prevent drift in later translation.
 
-Current progress: the translation has reached the end of `chapter-0038.md`, section 36.
+Current progress: the translation has reached the end of `chapter-0041.md`, section 39.
 
 ## Translation Priorities
 
@@ -65,6 +65,9 @@ Current progress: the translation has reached the end of `chapter-0038.md`, sect
 | Phantasie | imagination | Essential condition of genius, but not identical with genius. |
 | Phantast | fantasist | Imagination used for self-interested fantasy rather than cognition of Ideas. |
 | Wahnsinn | madness | Falsification of thought/memory relations, not ordinary sensory intuition. |
+| ästhetisches Wohlgefallen | aesthetic pleasure | Its subjective side is delight in cognition freed from the will; its objective side is intuitive apprehension of the Idea. |
+| das Schöne / das Erhabene | the beautiful / the sublime | Beauty draws one into pure cognition without struggle; the sublime requires a conscious elevation above an object's adverse relation to the will. |
+| dynamisch / mathematisch Erhabenes | dynamically / mathematically sublime | The former concerns threatening power; the latter, vast magnitude in space or time. |
 
 ## Nature, Causality, And Organism
 
@@ -185,4 +188,9 @@ Use standard English forms for familiar names and titles. Add entries only when 
 - Imagination extends genius beyond actual personal experience and helps it see what nature strove to form, but imagination alone can also become mere fantasizing.
 - The ordinary person seeks concepts useful for the will; the person of genius lingers with intuition and the Idea, often at the cost of practical prudence.
 - The genius/madness link turns on relations and memory: madness falsifies the relation of present to absent/past, while genius neglects relations in order to see the Idea.
+- Aesthetic receptivity exists to some degree in everyone capable of enjoying art; genius has a greater, more sustained capacity and the skill to communicate an apprehended Idea through a work.
+- Art facilitates cognition of the same Idea that may be apprehended directly in nature or life; the artist isolates it from distracting accidents.
+- Aesthetic pleasure includes both the objective apprehension of the Platonic Idea and the subjective release of cognition from service to the will.
+- The sublime retains awareness of a general threat or adverse relation to the human will while the subject deliberately remains in pure contemplation; actual personal fear ends the sublime experience.
+- Schopenhauer adopts Kant's labels dynamically and mathematically sublime while giving a different explanation of their basis.
 - Carry into Book Four: the will itself is groundless and outside the principle of sufficient reason; only individual appearances and acts have causes, motives, or ends.

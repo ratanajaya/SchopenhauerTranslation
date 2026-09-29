@@ -159,3 +159,6 @@ The whole-book translation is complete when:
 36. `chapter-0036.md` - section 34, pure will-less subject of cognition and aesthetic contemplation of the Idea
 37. `chapter-0037.md` - section 35, Ideas distinguished from their appearances in nature and history
 38. `chapter-0038.md` - section 36, art, genius, imagination, and the kinship of genius with madness
+39. `chapter-0039.md` - section 37, shared aesthetic receptivity and art as an aid to cognition of the Idea
+40. `chapter-0040.md` - section 38, will-free aesthetic pleasure and its subjective condition
+41. `chapter-0041.md` - section 39, the beautiful and sublime, their degrees, and sublime character
