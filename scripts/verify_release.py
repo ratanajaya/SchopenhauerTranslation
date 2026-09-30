@@ -81,14 +81,15 @@ def verify():
             headings_total += output_headings
             notes_total += len(notes)
             checked.append({'file': source.relative_to(ROOT).as_posix(), 'sha256': hashlib.sha256(source.read_bytes()).hexdigest(), 'footnotes': len(notes), 'headings': output_headings})
-    expected = {'the-world-as-will-and-representation-volume-i.epub', 'cover.jpg', 'RELEASE_NOTES.md', 'LICENSE.txt', 'SHA256SUMS'}
+    expected = {'the-world-as-will-and-representation-volume-i.epub', 'the-world-as-will-and-representation-volume-i.pdf', 'cover.jpg', 'RELEASE_NOTES.md', 'LICENSE.txt', 'SHA256SUMS'}
     assert set(p.name for p in dist.iterdir()) == expected
     checksums = {}
     for line in (dist / 'SHA256SUMS').read_text().splitlines():
         digest, name = line.split('  ', 1)
         assert digest == hashlib.sha256((dist / name).read_bytes()).hexdigest(), name
         checksums[name] = digest
-    assert len(checksums) == 4
+    assert len(checksums) == 5
+    assert (dist / 'the-world-as-will-and-representation-volume-i.pdf').read_bytes().startswith(b'%PDF-')
     assert (dist / 'LICENSE.txt').read_bytes() == (ROOT / 'LICENSE.txt').read_bytes()
     assert (dist / 'RELEASE_NOTES.md').read_bytes() == (ROOT / '_docs/release_notes.md').read_bytes()
     readme = (ROOT / 'README.md').read_text(encoding='utf8')
@@ -112,7 +113,7 @@ def verify():
         report['epubcheck'] = {key: checker[key] for key in ['checkerVersion', 'checkDate', 'nFatal', 'nError', 'nWarning']}
     else:
         report['epubcheck'] = {'status': 'No current EPUBCheck JSON report; run EPUBCheck separately.'}
-    (ROOT / '_docs/release-validation.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf8')
+    (ROOT / '_docs/release-validation.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf8', newline='\n')
     print(f'PASS: {len(checked)} content files, {headings_total} headings, {notes_total} footnotes; release integrity verified.')
 
 

@@ -1,0 +1,28 @@
+{
+  "pages": 550,
+  "page_size_inches": [
+    6,
+    9
+  ],
+  "content_sections": 75,
+  "verified_text_blocks_in_source_order": 2205,
+  "notes": 122,
+  "bookmarks": 75,
+  "link_annotations": 406,
+  "embedded_fonts": [
+    "SegoeUISymbol",
+    "TimesNewRomanPS-BoldMT",
+    "TimesNewRomanPS-ItalicMT",
+    "TimesNewRomanPSMT"
+  ],
+  "checks": [
+    "all paragraph, heading, and list text preserved in source order",
+    "all 122 source notes present",
+    "75 bookmarks match source titles and pages",
+    "valid internal link destinations and link rectangles",
+    "both translator GitHub links",
+    "embedded fonts and Unicode mappings",
+    "full-page cover",
+    "consistent page dimensions and printed numbering"
+  ]
+}

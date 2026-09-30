@@ -12,7 +12,7 @@ instructions are in [release_build.md](release_build.md).
 - **Links and IDs:** unique document IDs; all internal resource links and fragments resolve; every footnote reference has a marked destination and return link. Nested references to earlier notes are included.
 - **Metadata:** title, author (`aut`), translator (`trl`), two AI assistance contributors, publisher, language, subjects, source, rights, version, date, and unchanged UUID match the checked-in configuration.
 - **Cover and navigation:** EPUB `cover-image` property; embedded JPEG byte-identical to the release cover; cover first in reading order; cover, title page, contents, and main-text landmarks; ordered contents links include all content files and credits.
-- **Sources and package:** German extraction unchanged relative to Git HEAD. Exactly five upload files; four SHA-256 entries, each verified. Release license and notes match their checked-in sources. README is approximately 170 words, with a 320 px cover and valid local asset / editorial links.
+- **Sources and package:** German extraction unchanged relative to Git HEAD. Exactly six upload files (including the PDF); five SHA-256 entries, each verified. Release license and notes match their checked-in sources. README includes a 320 px cover and valid local download / editorial links.
 
 [release-validation.json](release-validation.json) records content hashes,
 counts, metadata check outcomes, and the final release-file checksums.
@@ -47,6 +47,30 @@ readers enter Schopenhauer's most famous work. Confirmed the GitHub account
 link in both the historical title-page credit and the edition-page credit.
 All six exporter checks, the full content verification, and EPUBCheck were
 rerun successfully on the revised package; release checksums were regenerated.
+
+## PDF edition
+
+The PDF release contains **550 pages** at **6 × 9 inches**, including the
+full-page illustrated cover, historical title page, revised edition note,
+linked contents, all 74 translated source files, and their notes. The cover
+has no printed page number; numbering begins at 1 on the following page.
+
+`verify_pdf.py` confirmed **2,205 text blocks** in source order, all **122
+notes**, **75 bookmarks** with matching titles and pages, **406 link
+annotations**, valid internal destinations and annotation rectangles, both
+translator GitHub profile links, embedded Times New Roman / Segoe UI Symbol
+fonts with Unicode mappings, consistent page dimensions, and printed page
+numbers. Results are recorded in [pdf-validation.json](pdf-validation.json).
+Notes appear at the end of each source section with reference and return links.
+
+Rendered the final PDF with Poppler and inspected the cover, title and credits,
+contents, ordinary body text, the Plato epigraph with polytonic Greek, and the
+Kant appendix's notes. A separate pdfplumber pass checked all 550 pages and
+found zero text glyphs outside the body frame, excluding headers and footers.
+The final package has six files, with five verified SHA-256 entries including
+the PDF; EPUBCheck still reports zero errors, warnings, and informational
+messages. The PDF is a reading edition, without print-production bleed or
+PDF/UA tagging.
 
 ## Editorial disposition
 
