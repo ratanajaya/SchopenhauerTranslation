@@ -33,11 +33,20 @@ height rules. The cover page now uses proportional image sizing without
 those rules. Note lists retain the author's numeric labels, including
 Bruno's note 2; editorial notes use dagger symbols instead of internal keys.
 
-Inspected the 1600 × 2400 JPEG and its 320 × 480 thumbnail. Typography fits
-the generous margins; the photograph retains the top of the hair and uses
-the same crop in the embedded-image SVG. Inspected the README cover and
-download links. The original photograph and attribution remain outside
-`dist/`.
+After the minor revision, inspected the new painted cover at 320 × 480 px
+and in the rebuilt EPUB at a 375 px reading width. The portrait blends into
+the background; the cover uses “Contemporary English translation” and omits
+the translator's name. The SVG embeds the same full-bleed artwork and retains
+editable typography. The historical photograph, generated artwork, exact
+generation prompt, and attribution remain outside `dist/`.
+
+Inspected the revised edition note at a 900 px reading width: the personal
+backstory respects E. F. J. Payne's translation, explains the difficulty of
+reading it as a non-native English speaker, and states the goal of helping
+readers enter Schopenhauer's most famous work. Confirmed the GitHub account
+link in both the historical title-page credit and the edition-page credit.
+All six exporter checks, the full content verification, and EPUBCheck were
+rerun successfully on the revised package; release checksums were regenerated.
 
 ## Editorial disposition
 

@@ -550,7 +550,7 @@ def cover_document(title: str) -> str:
     return f'''<?xml version="1.0" encoding="utf-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
 <head><title>Cover</title><style>html,body{{margin:0;padding:0;text-align:center}} img{{display:block;width:100%;height:auto;margin:auto}}</style></head>
-<body epub:type="cover"><img src="../images/cover.jpg" alt="Cover: {escape_xml(title)}, by Arthur Schopenhauer; English translation by Ratanajaya, with a portrait of the author."/></body>
+<body epub:type="cover"><img src="../images/cover.jpg" alt="Cover: {escape_xml(title)}, by Arthur Schopenhauer; Contemporary English translation, with a painted portrait of the author blending into a midnight teal background."/></body>
 </html>'''
 
 

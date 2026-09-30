@@ -10,8 +10,10 @@ python -X utf8 scripts/verify_release.py
 
 The build writes exactly five files to `dist/`, verifies their checksums,
 and retains the original portrait and editable artwork in `assets/cover/`.
-The cover composer uses locally installed Arial and Arial Bold fonts at
-`C:/Windows/Fonts/`. Font files are not part of the release. It creates both
+The cover composer uses locally installed Georgia and Arial fonts at
+`C:/Windows/Fonts/`. Font files are not part of the release. The retained
+`assets/cover/schopenhauer-painted.png` is the AI-assisted artwork; rebuilding
+does not regenerate it or call an image service. The composer creates both
 the SVG and JPEG from the shared layout coordinates in `build_cover.py`;
 change those coordinates to rebuild both consistently. The SVG also remains
 independently editable; archive custom SVG edits before rerunning the composer.

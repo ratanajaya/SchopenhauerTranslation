@@ -22,4 +22,4 @@ Four books, together with an appendix containing the critique of Kantian philoso
 > Would nature not, in the end, discover herself?<br>
 > *Goethe*.
 
-English translation by **Ratanajaya**, with AI assistance from OpenAI's **GPT-5.5** and **GPT-6 Sol**.
+English translation by **[Ratanajaya](https://github.com/ratanajaya)**, with AI assistance from OpenAI's **GPT-5.5** and **GPT-6 Sol**.

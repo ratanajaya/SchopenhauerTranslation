@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "publication_date_Asia_Bangkok": "2026-09-30",
-  "verified_at_Asia_Bangkok": "2026-09-30T17:40:24+07:00",
+  "verified_at_Asia_Bangkok": "2026-09-30T18:10:18+07:00",
   "content_files": 74,
   "headings": 84,
   "footnotes": 122,
@@ -22,15 +22,15 @@
     "SHA256SUMS"
   ],
   "release_checksums": {
-    "the-world-as-will-and-representation-volume-i.epub": "2ac78d3984830629a820996073d99f5c36d1897f8826964b543cff337e70e805",
-    "cover.jpg": "7e63138ec15d44828df002cceba70544948fb1af1bc799f1aea02b690e1332c6",
-    "RELEASE_NOTES.md": "e98834f442fa0ecc8243547708750e6ebe8d25d58fed0ba65ee1e7084c290fe9",
-    "LICENSE.txt": "1b37a539bb78d7fa106a1d273a95379442b268c6caf2e3fd36303c3fdc7792c3"
+    "the-world-as-will-and-representation-volume-i.epub": "dc76a93ccb4472e09b28e78dd891b834d00433e8c825b83f9d099358667d7c16",
+    "cover.jpg": "5aa42886f571c41dd5e91dc08a4879768c5e7281a1e26dda5353c62c6443e5c6",
+    "RELEASE_NOTES.md": "dfb885819ef68ba436a667c1d9b7319e3a23da1ecac5355451ee850f5f67e6b2",
+    "LICENSE.txt": "bdc8e0b0f242af46114df14a44bbc30bc14f5a200dc21426605d78265af9b954"
   },
   "content": [
     {
       "file": "english-translation/chapter-0001.md",
-      "sha256": "6c13d0fc909f754ef90b90a41c29f8aebae854deae910d4d5484d4daaa9e83eb",
+      "sha256": "c8b0a70657b2ed7314adc7023c4f48df9ca5513529d6fd017f5c393feb6b020e",
       "footnotes": 0,
       "headings": 3
     },
@@ -475,7 +475,7 @@
   ],
   "epubcheck": {
     "checkerVersion": "5.4.0",
-    "checkDate": "09-30-2026 17:39:18",
+    "checkDate": "09-30-2026 18:09:56",
     "nFatal": 0,
     "nError": 0,
     "nWarning": 0

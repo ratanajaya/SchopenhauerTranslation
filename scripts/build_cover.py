@@ -1,59 +1,51 @@
-"""Compose the cover from a historical photo; retain editable SVG typography."""
+"""Compose editable book typography over the retained painted cover artwork."""
 from pathlib import Path
 import base64
 import html
-import re
-import urllib.request
-from PIL import Image, ImageDraw, ImageFont, ImageOps
+from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / 'assets' / 'cover'
-ASSETS.mkdir(parents=True, exist_ok=True)
-(ROOT / '.release-cache').mkdir(exist_ok=True)
-PHOTO = ASSETS / 'schopenhauer-schaefer-1859.jpg'
-PAGE = 'https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Sch%C3%A4fer,_1859.jpg'
-if not PHOTO.exists():
-    req = urllib.request.Request(PAGE, headers={'User-Agent': 'SchopenhauerTranslation/1.0'})
-    page = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
-    urls = re.findall(r'href="([^"]+)"', page)
-    url = next(html.unescape(u) for u in urls if 'upload.wikimedia.org' in u and '/thumb/' not in u and u.endswith('.jpg'))
-    request = urllib.request.Request(url, headers={'User-Agent': 'SchopenhauerTranslation/1.0'})
-    PHOTO.write_bytes(urllib.request.urlopen(request, timeout=30).read())
+ART = ASSETS / 'schopenhauer-painted.png'
+SIZE = (1600, 2400)
+CREAM = '#f6e9ce'
+COPPER = '#d5ae73'
 
-# All coordinates are shared between the editable vector master and JPEG export.
+# Shared typography coordinates keep the editable SVG and JPEG consistent.
+# The artwork is full bleed, with no photo crop or portrait frame.
 texts = [
-    (120, 130, 'ARTHUR SCHOPENHAUER', 40, False),
-    (120, 260, 'The World', 122, True),
-    (120, 395, 'as Will and', 122, True),
-    (120, 530, 'Representation', 122, True),
-    (120, 700, 'VOLUME I', 44, False),
-    (120, 2200, 'English translation by', 38, False),
-    (120, 2260, 'Ratanajaya', 62, True),
+    (130, 'ARTHUR SCHOPENHAUER', 43, 'arial.ttf', 'Arial, sans-serif', CREAM),
+    (235, 'The World', 118, 'georgia.ttf', 'Georgia, serif', CREAM),
+    (365, 'as Will and', 118, 'georgia.ttf', 'Georgia, serif', CREAM),
+    (495, 'Representation', 118, 'georgia.ttf', 'Georgia, serif', CREAM),
+    (625, 'VOLUME I', 30, 'arial.ttf', 'Arial, sans-serif', COPPER),
+    (2240, 'Contemporary English translation', 47, 'arial.ttf', 'Arial, sans-serif', CREAM),
 ]
-image = Image.new('RGB', (1600, 2400), 'white')
-portrait = Image.open(PHOTO).convert('RGB')
-image.paste(ImageOps.fit(portrait, (1360, 1280), centering=(0.5, 0.08)), (120, 850))
+
+image = Image.open(ART).convert('RGB')
+if image.width * SIZE[1] != image.height * SIZE[0]:
+    raise ValueError('Cover artwork must have a 2:3 aspect ratio; do not crop it.')
+image = image.resize(SIZE, Image.Resampling.LANCZOS)
 draw = ImageDraw.Draw(image)
 svg_text = []
-for x, y, text, size, bold in texts:
-    font = ImageFont.truetype('C:/Windows/Fonts/arialbd.ttf' if bold else 'C:/Windows/Fonts/arial.ttf', size)
-    if draw.textlength(text, font=font) > 1360:
+for y, text, size, font_file, family, color in texts:
+    font = ImageFont.truetype(str(Path('C:/Windows/Fonts') / font_file), size)
+    width = draw.textlength(text, font=font)
+    if width > SIZE[0] - 240:
         raise ValueError(f'Text exceeds cover width: {text}')
-    draw.text((x, y), text, fill='#111111', font=font, anchor='lt')
-    # Pillow's lt anchor is the ink top. SVG uses a baseline; font ascent maps it.
-    bbox = font.getbbox(text)
-    baseline = y + font.getmetrics()[0] - bbox[1]
-    svg_text.append(f'<text x="{x}" y="{baseline}" font-family="Arial, sans-serif" font-size="{size}" font-weight="{700 if bold else 400}" fill="#111111">{html.escape(text)}</text>')
+    x = (SIZE[0] - width) / 2
+    draw.text((x, y), text, fill=color, font=font, anchor='lt')
+    baseline = y + font.getmetrics()[0] - font.getbbox(text)[1]
+    svg_text.append(f'<text x="{x}" y="{baseline}" font-family="{family}" font-size="{size}" fill="{color}">{html.escape(text)}</text>')
 
-data = base64.b64encode(PHOTO.read_bytes()).decode('ascii')
+data = base64.b64encode(ART.read_bytes()).decode('ascii')
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2400" viewBox="0 0 1600 2400">
-<title>The World as Will and Representation, Volume I</title>
-<rect width="1600" height="2400" fill="white"/>
-<defs><clipPath id="portrait"><rect x="120" y="850" width="1360" height="1280"/></clipPath></defs>
-<image x="120" y="{850 - (1360 / portrait.width * portrait.height - 1280) * .08}" width="1360" height="{1360 / portrait.width * portrait.height}" href="data:image/jpeg;base64,{data}" clip-path="url(#portrait)"/>
+<title>The World as Will and Representation, Volume I — Contemporary English translation</title>
+<image x="0" y="0" width="1600" height="2400" href="data:image/png;base64,{data}"/>
 {chr(10).join(svg_text)}
 </svg>'''
 (ASSETS / 'cover.svg').write_text(svg, encoding='utf-8')
 image.save(ASSETS / 'cover.jpg', quality=95, subsampling=0, optimize=True)
+(ROOT / '.release-cache').mkdir(exist_ok=True)
 image.resize((320, 480), Image.Resampling.LANCZOS).save(ROOT / '.release-cache' / 'cover-thumbnail.jpg', quality=95)
-print('Cover: 1600 x 2400 px; SVG master and JPEG generated.')
+print('Cover: 1600 x 2400 px; painted artwork with editable SVG typography and JPEG generated.')

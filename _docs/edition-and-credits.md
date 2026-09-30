@@ -4,7 +4,9 @@
 Arthur Schopenhauer<br>
 First English release, v1.0.0 · September 30, 2026
 
-English translation by **Ratanajaya**, with AI assistance from **OpenAI GPT-5.5** and **OpenAI GPT-6 Sol**. Published by Ratanajaya.
+English translation by **[Ratanajaya](https://github.com/ratanajaya)**, with AI assistance from **OpenAI GPT-5.5** and **OpenAI GPT-6 Sol**. Published by Ratanajaya.
+
+This translation began with my own wish to read Schopenhauer more readily. I have great respect for E. F. J. Payne's translation and the care it brings to Schopenhauer's philosophy. As a non-native English speaker, however, I personally find its language difficult to follow. That experience inspired this contemporary English version: I wanted to help more people find their way into *The World as Will and Representation*, Schopenhauer's most famous work, and engage with its ideas. My aim is to offer an accessible entry point while preserving the depth and precision of his thought.
 
 This edition contains the four books, §§1–71, the prefaces, and the appendix *Critique of Kantian Philosophy*. It follows the German text edited by Eduard Grisebach, *Die Welt als Wille und Vorstellung*, Band I, second corrected printing (Leipzig: Philipp Reclam jun., 1892). The historical title page and editor's remarks are retained; their publisher and edition statements describe the German source, not this English release.
 
@@ -18,6 +20,6 @@ Schopenhauer's polemics include antisemitic descriptions and other derogatory ge
 
 ## Cover and Rights
 
-Cover portrait: Arthur Schopenhauer, photographed by **J. Schäfer, March 1859**, from Frankfurt am Main University Library via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Sch%C3%A4fer,_1859.jpg), which identifies the photograph as public domain. The cover uses a crop of the historical photograph. Original cover layout by Ratanajaya.
+Cover artwork: an AI-assisted painted interpretation of Arthur Schopenhauer, created with OpenAI's image-generation tool using **J. Schäfer's March 1859 photograph** as a likeness reference. The historical photograph comes from Frankfurt am Main University Library via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Sch%C3%A4fer,_1859.jpg), which identifies it as public domain. The portrait blends into the illustrated background. Cover design by Ratanajaya.
 
-Ratanajaya's translation, editorial material, and original cover layout are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribute the translation to Ratanajaya, link the license, and indicate changes. The historical German text and portrait are public-domain source material. Scripts, fonts, and other third-party assets are excluded from this license grant.
+Ratanajaya's translation, editorial material, and original cover artwork and layout are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribute the translation to Ratanajaya, link the license, and indicate changes. The historical German text and portrait are public-domain source material. Scripts, fonts, and other third-party assets are excluded from this license grant.
