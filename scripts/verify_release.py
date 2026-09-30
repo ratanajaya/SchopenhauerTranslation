@@ -96,7 +96,8 @@ def verify():
     assert 'src="dist/cover.jpg" width="320"' in readme
     for link in re.findall(r'\]\(([^)]+)\)', readme):
         if not link.startswith('http'): assert (ROOT / link).is_file(), link
-    assert 'https://github.com/ratanajaya/SchopenhauerTranslation/releases' in readme
+    for extension in ('epub', 'pdf'):
+        assert f'(dist/the-world-as-will-and-representation-volume-i.{extension})' in readme
     assert subprocess.check_output(['git','diff','--name-only','HEAD','--','original-epub-extract-md'],cwd=ROOT,text=True).strip() == '', 'German extraction changed'
     report = {'version': configuration['release_version'], 'publication_date_Asia_Bangkok': configuration['date'],
               'verified_at_Asia_Bangkok': datetime.now(timezone(timedelta(hours=7))).isoformat(timespec='seconds'),
