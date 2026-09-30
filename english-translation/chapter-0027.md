@@ -33,7 +33,7 @@ By *Idea*, then, I understand every determinate and fixed *grade of the objectiv
 
 The shortest and most concise expression of this famous Platonic doctrine is given by Diogenes Laertius (III, 12):
 
-> `á½ Ï€Î»Î±Ï„Ï‰Î½ Ï†Î·ÏƒÎ¹, ÎµÎ½ Ï„á¿ƒ Ï†Ï…ÏƒÎµÎ¹ Ï„Î±Ï‚ Î¹Î´ÎµÎ±Ï‚ á¼‘ÏƒÏ„Î±Î½Î±Î¹, Ï°Î±Ï‘Î±Ï€ÎµÏ± Ï€Î±Ï±Î±Î´ÎµÎ¹Î³Î¼Î±Ï„Î± Ï„Î± Î´' Î±Î»Î»Î± Ï„Î±Ï…Ï„Î±Î¹Ï‚ ÎµÎ¿Î¹Ï°ÎµÎ½Î±Î¹, Ï„Î¿Ï…Ï„Ï‰Î½ á½Î¼Î¿Î¹Ï‰Î¼Î±Ï„Î± Ï°Î±Ï‘ÎµÏƒÏ„Ï‰Ï„Î±.`
+> `ὁ Πλάτων φησί, ἐν τῇ φύσει τὰς ἰδέας ἑστάναι, καθάπερ παραδείγματα· τὰ δ’ ἄλλα ταύταις ἐοικέναι, τούτων ὁμοιώματα καθεστῶτα.`
 >
 > `Plato ideas in natura, velut exemplaria dixit subsistere; cetera his esse similia, ad istarum similitudinem consistentia.`
 >

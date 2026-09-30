@@ -16,7 +16,7 @@ This really empirical and unscientific cognition resembles that of the physician
 
 Yet the manner in which Euclid carried this through deserves all the admiration it has received for so many centuries. That admiration went so far that his treatment of mathematics was declared the model for every scientific presentation, and people even tried to model all other sciences on it, though later they drew back from this without quite knowing why. In our eyes, however, Euclid's method in mathematics can only appear as a very brilliant perversity.
 
-Now, for every great error that is pursued deliberately and methodically and is accompanied by general approval, whether it concerns life or science, its ground can probably always be shown in the philosophy dominant at its time. The Eleatics were the first to discover the distinction, and indeed the frequent conflict, between what is intuited, `phainomenon` (appearance), and what is thought, `nooumenon` (object of thought), [^1] and they used this distinction in many ways for their philosophical doctrines and also for sophisms.
+Now, for every great error that is pursued deliberately and methodically and is accompanied by general approval, whether it concerns life or science, its ground can probably always be shown in the philosophy dominant at its time. The Eleatics were the first to discover the distinction, and indeed the frequent conflict, between what is intuited, φαινόμενον (*phainomenon*, appearance), and what is thought, νοούμενον (*noumenon*, object of thought),[^1] and they used this distinction in many ways for their philosophical doctrines and also for sophisms.
 
 They were followed later by the Megarians, dialecticians, Sophists, New Academics, and Skeptics. These drew attention to semblance, that is, to the deception of the senses, or rather of the understanding that transforms their data into intuition, which often lets us see things to which reason with certainty denies reality, for example the stick broken in water and the like. It was recognized that sensible intuition was not to be trusted unconditionally, and people hastily concluded that rational, logical thinking alone grounds truth.
 
@@ -32,7 +32,7 @@ This form is everywhere the principle of sufficient reason. Here, as the form of
 
 If we keep to the ground proper to mathematics, we gain the great advantage that in it knowledge *that* something is so is one with knowledge of *why* it is so. By contrast, the Euclidean method separates the two completely, and lets us know only the former, not the latter. Aristotle says quite excellently in `Analyt. post. 1, 27`:
 
-> `Αϰϱιβεστεϱα δ' επστημη επστημης ϰαι πϱοτεϱα, ἡτε του ὁτι ϰαι του διοτι ἡ αυτη, αλλα μη χωϱις του ὁτι, της του διοτι.`
+> `Ἀκριβεστέρα δ’ ἐπιστήμη ἐπιστήμης καὶ προτέρα, ἥ τε τοῦ ὅτι καὶ τοῦ διότι ἡ αὐτή, ἀλλὰ μὴ χωρὶς τοῦ ὅτι, τῆς τοῦ διότι.`
 > `Suptilior autem et prastantior ea est scientia, qua quod aliquid sit, et cur sit una simulque intellegimus, non separatim quod, et cur sit.`
 > Translation: More exact and superior is the science in which we understand both that something is and why it is at one and the same time, not separately the that and the why.
 

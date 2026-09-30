@@ -1,0 +1,483 @@
+{
+  "version": "1.0.0",
+  "publication_date_Asia_Bangkok": "2026-09-30",
+  "verified_at_Asia_Bangkok": "2026-09-30T17:40:24+07:00",
+  "content_files": 74,
+  "headings": 84,
+  "footnotes": 122,
+  "checks": [
+    "archive and XML structure",
+    "unique IDs",
+    "all internal links and fragments",
+    "footnote destinations and every return link",
+    "metadata and contributor roles",
+    "cover property and bytes",
+    "spine and navigation landmarks",
+    "complete body and footnote text against all 74 Markdown files",
+    "heading counts",
+    "unchanged German extraction",
+    "README local links",
+    "license consistency",
+    "exact release filenames",
+    "SHA256SUMS"
+  ],
+  "release_checksums": {
+    "the-world-as-will-and-representation-volume-i.epub": "2ac78d3984830629a820996073d99f5c36d1897f8826964b543cff337e70e805",
+    "cover.jpg": "7e63138ec15d44828df002cceba70544948fb1af1bc799f1aea02b690e1332c6",
+    "RELEASE_NOTES.md": "e98834f442fa0ecc8243547708750e6ebe8d25d58fed0ba65ee1e7084c290fe9",
+    "LICENSE.txt": "1b37a539bb78d7fa106a1d273a95379442b268c6caf2e3fd36303c3fdc7792c3"
+  },
+  "content": [
+    {
+      "file": "english-translation/chapter-0001.md",
+      "sha256": "6c13d0fc909f754ef90b90a41c29f8aebae854deae910d4d5484d4daaa9e83eb",
+      "footnotes": 0,
+      "headings": 3
+    },
+    {
+      "file": "english-translation/chapter-0002.md",
+      "sha256": "dbccc1f5cc8c6fd27783210b79319692850d52c9f3c561b8cbf6fb168b0c3a70",
+      "footnotes": 5,
+      "headings": 5
+    },
+    {
+      "file": "english-translation/chapter-0003.md",
+      "sha256": "f776235026c8daa17e159007dc51eb1e83fcb26b45309c35355b7a8d16ef9bac",
+      "footnotes": 1,
+      "headings": 2
+    },
+    {
+      "file": "english-translation/chapter-0004.md",
+      "sha256": "d2459700f1e2b309824f679c24353ab37503b920209fddb047ed49e0611e622f",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0005.md",
+      "sha256": "988d15df5e077684286f567fbab31f6be682ae48495b9d016e1a70011fe707bc",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0006.md",
+      "sha256": "8d781ee385eb0853df471a8c110b6193bc46bbcdd83cb154ac20a9854a373ed5",
+      "footnotes": 4,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0007.md",
+      "sha256": "a97ae3406ea9e5273fc3e8731301b709b36aac9b50ba6c6f442ca86a8104200d",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0008.md",
+      "sha256": "772ac0ba42c754573017f66b1c9cef635200423c36d4548b5f9575102e931c16",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0009.md",
+      "sha256": "6e6b12f074a861e407afc01bb07e3bcf2f5e2802fd0df46f0bc5d17a8fbd0d4f",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0010.md",
+      "sha256": "e2f5a800a6a6d2acdd34ecffc383788b538f03e79f28400309f0a47aa4610db0",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0011.md",
+      "sha256": "348f7523a8e91e823dabae90c5e8c2de9afc9f8f8d0cabd0ecb87ad0388921fd",
+      "footnotes": 3,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0012.md",
+      "sha256": "e8153b525515585136bdcf16242f8350ab18d447ce22f835c9b98380477ccffe",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0013.md",
+      "sha256": "6de3320708ea9de3916599bfdf909fd0cdf447a02da8afad2d80d86b7e487dad",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0014.md",
+      "sha256": "36fab3c191dccabb87cecb8f1af7d8e1d930c0a87595e1a9a0c026131ee2900e",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0015.md",
+      "sha256": "30aacca907290071e58e9e423343f1a49ed4aa67bb3a9c3b649e8391c1c1f66f",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0016.md",
+      "sha256": "6dd1161724701f80aa87610352b69e40464a1275483b6efc84ad84b6fc285ea9",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0017.md",
+      "sha256": "d15a474ea0c6caee7df190986507ab6286aa816f4d6a76a61e5f48128587def7",
+      "footnotes": 3,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0018.md",
+      "sha256": "865e1a1dda75b94f43187707a2586562a5e1d2abfb7f2ea3ac0fc4c60d778687",
+      "footnotes": 3,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0019.md",
+      "sha256": "bb48accf05cf39588245371c96701611991b673fd2c0a7b7290a4f3e2e64bf5d",
+      "footnotes": 0,
+      "headings": 2
+    },
+    {
+      "file": "english-translation/chapter-0020.md",
+      "sha256": "70ace6d6e5d85dec1cedb27351964170fb315b9698868f893d3fdc93a6a0db8c",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0021.md",
+      "sha256": "f969cf7b1c215ff8250b5f63b4c782d7518f282383eaf5bb1d09d8229df100f1",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0022.md",
+      "sha256": "26fbedb463e64fdf2fed9d0bb8b9a378a6efca3b1c3834172e7e76b7e9d87aa5",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0023.md",
+      "sha256": "1d7490f42998a0b4c75eeb95774604c26954db4f2d785149ca799d4750bdaa59",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0024.md",
+      "sha256": "ecdecee82323a60de727428c4b76f8e4c324641fe9ab9b2a7fa5514ddc186a9e",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0025.md",
+      "sha256": "c00b7eb6740d45e9df34eb1f0b57de202d82ce5540f15ded4f94a5290ba8b318",
+      "footnotes": 3,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0026.md",
+      "sha256": "cc89550e6f83ba42cf9020197a11fcbcc620e10e05568a541817a573a3c991a1",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0027.md",
+      "sha256": "95735a01d89c05bb0a06911478e9032c8f1365132193798fa394bfa9f69618b5",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0028.md",
+      "sha256": "e4fe70cd3a4aa935b3ee68e168a1c4aadd973a9c17d68783c7edc9932a9fdd64",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0029.md",
+      "sha256": "9992ee068d94423c0063e23b8808302303fd831fdd9ef7ac0db7e2dc9ba6d8ee",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0030.md",
+      "sha256": "5e44db91ea2e947a5c29cde7f74631e6ae4717e9c2b5d70e153d22bdc3c7c326",
+      "footnotes": 5,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0031.md",
+      "sha256": "fe1088f3eb9e8058c1dd76cfbbba908dbc142344af832c367e2d5f4f5eb9bd70",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0032.md",
+      "sha256": "ec262a9a728e34e4c4ec4fffaf341f8e33f5b6423173f5156d6734addfc153ea",
+      "footnotes": 1,
+      "headings": 2
+    },
+    {
+      "file": "english-translation/chapter-0033.md",
+      "sha256": "460bfc6603f8d3089a5529df10d371338d75c1393ff7a14887d9d58bab0f7c2f",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0034.md",
+      "sha256": "7e8ab973183026044cf095943faeb167cb81088958a013e5698eeba64c9af03c",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0035.md",
+      "sha256": "c2f266842442fe54a5a04951df0659bc80b4a083ce54aaa86a121da4f03b5c4d",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0036.md",
+      "sha256": "ee4261446fa5fce78886bd95d04fefbf7f9804845f37000145007fcb2f90138e",
+      "footnotes": 3,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0037.md",
+      "sha256": "22d83444d4a5f5ea91758e700932604696b1d9b43a16678feaecde4c1af0322c",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0038.md",
+      "sha256": "e865492834d0e84a71884d685f483bb0b4fe2b935d9aaa3c2e7cb2000ceb1b21",
+      "footnotes": 3,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0039.md",
+      "sha256": "6b4fdd331ce8d563f2c6fca887c801d118dc205537eddc1fa743ba2830d774a9",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0040.md",
+      "sha256": "741137408e7d4fcdc6e8015da814b348a9f295c5ed465701aae1148e47687fbd",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0041.md",
+      "sha256": "1cac26c63deab129fc8d19f72a696d86454e34ae87477395c84828d34a1498a4",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0042.md",
+      "sha256": "8326b4f201e96182318bee3b1b6e3f4d965ea8b4b73983cd98bb219dcfb716ff",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0043.md",
+      "sha256": "6baa676e87a3d6ec5835ee254e49a0f112a42d292a470715836c3f9a8d2b7f2b",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0044.md",
+      "sha256": "98f57a93a9581c9a3aa34f3431a158110e96c459818269d7a57e7dd569b5b6f2",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0045.md",
+      "sha256": "8c0e4f5437e883efbae730999051b5b8ba5542520c6c2f029f0b4864eaa9c300",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0046.md",
+      "sha256": "ea9ebed8ffce9507353437994d0e5cd290744835de8c44e818c2cee39d7feda1",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0047.md",
+      "sha256": "89d948233c2afad121f1fec9b2a760095765e32874ae078c73ad1f8f7e60fd81",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0048.md",
+      "sha256": "8dcc097a91bd02b89ea23687dfbda75741580904bc896f307da4ea9b48d65f5a",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0049.md",
+      "sha256": "8c27ae90c99c61a09e55a7d6bb85bbb5c0b4afa25dd462de4ac6e12233371142",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0050.md",
+      "sha256": "9f01bb8b7c7ddf450fffb6977123b01dc3370f5882d0d204f7915f471214b992",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0051.md",
+      "sha256": "37fa4a4f2bc3b15a43cdad658134bdb1e17844def6320245f6f2d71532314147",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0052.md",
+      "sha256": "e4a65b081269f24a01fe2bc1a90b5dc024b53676134fa9881903b3e5aaa98539",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0053.md",
+      "sha256": "18b32b0f078a471256ca33ecfcd771da9be0cd8aa9c1afb59e3681e92146862e",
+      "footnotes": 7,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0054.md",
+      "sha256": "7a886f3670f01fe9f10b5ce3d5d2a1c29346de178e7059988bd1db5bebc636e4",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0055.md",
+      "sha256": "d6ab6e54058f02b31f6a20a61d07503d79297f71a96725ef1c86c52ce2f0037d",
+      "footnotes": 0,
+      "headings": 2
+    },
+    {
+      "file": "english-translation/chapter-0056.md",
+      "sha256": "80574fa9d7d7bebb128b13927bf825af1dd243e7fc109cdaaab1e38b7ca259e1",
+      "footnotes": 5,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0057.md",
+      "sha256": "0becab76f070f197f30db4e88384bc01c60606b4ef6f93663ffbaad847e0d509",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0058.md",
+      "sha256": "c72c98960568b4a48f4dc4ae271ad4ea2171b2870f25ee4292d9a51af3201407",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0059.md",
+      "sha256": "5e2592cbf364261b8d86cdd20391042052e439de1251f273fff3ee109be2bc13",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0060.md",
+      "sha256": "7d7f66a98b843224263b540dff6122e270c7963456f27154621f398ce8b4f304",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0061.md",
+      "sha256": "bdd6dbf832abc5598633e670199989bccc1482b9675b582d631e23202f5d0a7b",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0062.md",
+      "sha256": "a4a690002e74c23cadd5a1135af11058b69805edc92d1b4b4c5282041751c6df",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0063.md",
+      "sha256": "66d5314d61b9282ca91cfc07b401ab7258e818cbe2f82d336821134a4057feef",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0064.md",
+      "sha256": "a4df4d6de3256e4dd226edd18d6403c153c4cea48bd92619693aa8bf18b2561b",
+      "footnotes": 5,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0065.md",
+      "sha256": "923c24f251443e657ff611c491711d360cd9303b958160a86ac9c299caa3fd95",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0066.md",
+      "sha256": "af6c48c22f379e449595e512f3db08f68b0efe1f6d1fa5202dc814bb689c8370",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0067.md",
+      "sha256": "e002dcf95c8ee9642eb1c8cc96921513c4e5b4c0c1dbe5f67acf4e0f1fd9cbf2",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0068.md",
+      "sha256": "a389a853880ea71a13edf5c7635dba09c6660fcbb5b59445f946524da240110b",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0069.md",
+      "sha256": "34c10d77a9b0968e9fb1bc4198497d1960cea7ca3b1d084871cfc1d1631dd1c8",
+      "footnotes": 2,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0070.md",
+      "sha256": "0a7d1b2cac415772614ef0ee2821b3ba106874584103a21ff1a32dc4d86bf47c",
+      "footnotes": 7,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0071.md",
+      "sha256": "21c407b288a2c47b358810f5aca1e91fea3710035b06ac9b0ab38df02f4dcae5",
+      "footnotes": 0,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0072.md",
+      "sha256": "75c1ee28230efc508423054787b2e8aac61c8a76372fe0b67e071b257be7afe6",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0073.md",
+      "sha256": "96ebd5ff788041459e35190c4fadf2cf6c8e25ed38a2a67333bc5da20fd9c5c1",
+      "footnotes": 1,
+      "headings": 1
+    },
+    {
+      "file": "english-translation/chapter-0074.md",
+      "sha256": "2ba0de80efefc761df3891aaf5e2d1cd5e425ca2ecd7abbcd404daadf426e076",
+      "footnotes": 11,
+      "headings": 1
+    }
+  ],
+  "epubcheck": {
+    "checkerVersion": "5.4.0",
+    "checkDate": "09-30-2026 17:39:18",
+    "nFatal": 0,
+    "nError": 0,
+    "nWarning": 0
+  }
+}

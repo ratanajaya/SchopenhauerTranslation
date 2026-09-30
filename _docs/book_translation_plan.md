@@ -1,5 +1,7 @@
 # English Translation Plan
 
+Status: content files 0001–0074 are translated. The v1.0.0 release package is prepared locally in `dist/`; [editorial review](human_review_notes.md) and [release validation](release-validation.md) record the publication checks. These 74 files contain the front matter, four books (§§1–71), and the Kant appendix.
+
 ## Project Goal
 
 Translate the full book from German into clear, modern English while preserving the seriousness, precision, and philosophical force of the original. The translation should be easier for a present-day reader to follow, but it should not flatten Schopenhauer's argument, simplify technical distinctions, or turn the prose into paraphrase.
@@ -162,3 +164,36 @@ The whole-book translation is complete when:
 39. `chapter-0039.md` - section 37, shared aesthetic receptivity and art as an aid to cognition of the Idea
 40. `chapter-0040.md` - section 38, will-free aesthetic pleasure and its subjective condition
 41. `chapter-0041.md` - section 39, the beautiful and sublime, their degrees, and sublime character
+42. `chapter-0042.md` - section 40, the alluring and the disgusting as obstacles to aesthetic contemplation
+43. `chapter-0043.md` - section 41, beauty, the Idea, and the aesthetic expression of materials
+44. `chapter-0044.md` - section 42, subjective and objective sources of aesthetic enjoyment
+45. `chapter-0045.md` - section 43, architecture and waterworks as expressions of material forces
+46. `chapter-0046.md` - section 44, gardening, landscape painting, and animal depiction
+47. `chapter-0047.md` - section 45, human beauty, grace, and individual character
+48. `chapter-0048.md` - section 46, why sculpture cannot depict Laocoön's cry
+49. `chapter-0049.md` - section 47, drapery in sculpture and clarity in writing
+50. `chapter-0050.md` - section 48, history painting, inner significance, and resignation
+51. `chapter-0051.md` - section 49, Idea and concept, genuine art and imitation
+52. `chapter-0052.md` - section 50, allegory and symbol in visual art and poetry
+53. `chapter-0053.md` - section 51, poetry, lyric song, character, and tragedy
+54. `chapter-0054.md` - section 52, music as an immediate image of the will
+55. `chapter-0055.md` - section 53, opening of Book Four and philosophy's immanent ethical inquiry
+56. `chapter-0056.md` - section 54, life, death, the present, and affirmation or denial of the will
+57. `chapter-0057.md` - section 55, freedom, necessity, and intelligible, empirical, and acquired character
+58. `chapter-0058.md` - section 56, endless striving and the essential suffering of life
+59. `chapter-0059.md` - section 57, pain and boredom as the poles of human life
+60. `chapter-0060.md` - section 58, negative happiness, art, and the emptiness of ordinary life
+61. `chapter-0061.md` - section 59, experiential confirmation of suffering and critique of optimism
+62. `chapter-0062.md` - section 60, affirmation of the will, procreation, and eternal justice
+63. `chapter-0063.md` - section 61, egoism and the will's conflict with itself
+64. `chapter-0064.md` - section 62, injustice, property, right, the state, and punishment
+65. `chapter-0065.md` - section 63, eternal justice, individuation, and the myth of transmigration
+66. `chapter-0066.md` - section 64, retribution, conscience, and self-sacrificing vengeance
+67. `chapter-0067.md` - section 65, good and evil, malice, and anguish of conscience
+68. `chapter-0068.md` - section 66, intuitive cognition, justice, beneficence, and compassion
+69. `chapter-0069.md` - section 67, love as compassion and the account of weeping
+70. `chapter-0070.md` - section 68, denial of the will to live and the two paths to resignation
+71. `chapter-0071.md` - section 69, suicide and its distinction from denial of the will
+72. `chapter-0072.md` - section 70, necessity, freedom, and the Christian doctrines of grace and rebirth
+73. `chapter-0073.md` - section 71, relative nothingness and the close of Book Four
+74. `chapter-0074.md` - appendix, critique of Kantian philosophy

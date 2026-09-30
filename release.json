@@ -1,0 +1,17 @@
+{
+  "title": "The World as Will and Representation, Volume I",
+  "creator": "Arthur Schopenhauer",
+  "translator": "Ratanajaya",
+  "contributor": ["OpenAI GPT-5.5", "OpenAI GPT-6 Sol"],
+  "language": "en",
+  "publisher": "Ratanajaya",
+  "identifier": "urn:uuid:ec5127c7-8558-42b7-87e6-a9f3566d7536",
+  "release_version": "1.0.0",
+  "date": "2026-09-30",
+  "subject": ["Philosophy", "Metaphysics", "Epistemology", "Aesthetics", "Ethics"],
+  "description": "A modern English translation by Ratanajaya, with AI assistance from OpenAI GPT-5.5 and GPT-6 Sol. Includes four books, sections 1–71, the prefaces, and the appendix Critique of Kantian Philosophy.",
+  "source": "Arthur Schopenhauer, Die Welt als Wille und Vorstellung, Band I. Edited by Eduard Grisebach. Leipzig: Philipp Reclam jun., second corrected printing, 1892.",
+  "rights": "Ratanajaya's translation, editorial material, and original cover layout are licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). The historical German text and J. Schäfer's 1859 portrait are public-domain source material; scripts and third-party assets are excluded from this license grant.",
+  "cover": "assets/cover/cover.jpg",
+  "credits": "_docs/edition-and-credits.md"
+}

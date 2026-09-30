@@ -36,9 +36,9 @@ We can receive an immediate impression of the mathematically sublime from a spac
 
 Our account of the sublime can also be carried into ethics, to what is called a sublime character. This too arises when objects fully capable of stirring the will fail to do so because cognition retains the upper hand. A person of this character views other people purely objectively, not according to how they might relate to his own will. He notices their faults, even their hatred and injustice toward him, without himself being roused to hatred. He sees their happiness without envy, recognizes their good qualities without wanting a closer association, and perceives the beauty of women without desiring them. His own happiness and misfortune affect him little. He is, rather, like Horatio as Hamlet describes him:
 
-> `for thon hast been`<br>
+> `for thou hast been`<br>
 > `As one, in suffering all, that suffers nothing;`<br>
-> `A man, that fortune's beffets and rewards`<br>
+> `A man, that fortune's buffets and rewards`<br>
 > `Hast ta'en with equal thanks, etc, (A. 3. sc. 2.)`[^2]
 >
 > Translation: For you have been like one who suffers nothing though enduring everything, a man who has accepted fortune's blows and rewards with equal thanks.
@@ -46,4 +46,4 @@ Our account of the sublime can also be carried into ethics, to what is called a 
 For in the course of his own life and its accidents, he sees less of his individual fate than of the fate of humanity as a whole. He responds, therefore, more by knowing than by suffering.
 
 [^1]: All the more pleased and surprised am I now, forty years after setting down this thought so timidly and hesitantly, to discover that Saint Augustine had already expressed it: `Arbusta formas suas varias, quibus mundi hujus visibilis structura formosa est, sentiendas sensibus praebent; ut, pro eo quod *nosse* non possunt, quasi *innotescere* velle videantur. (De civ. Dei, XI, 27.)` Translation: Shrubs offer their varied forms, which beautify the structure of this visible world, for the senses to perceive; since they cannot know, they seem almost to wish to become known.
-[^2]: The source's German note translates the passage: “For you have always been as one who, though everything befell him, suffered nothing; you accepted fortune's blows and gifts with equal thanks, and so on.” The English quotation above retains the wording and apparent typographical errors of the source extract.
+[^2]: The source's German note translates the passage: “For you have always been as one who, though everything befell him, suffered nothing; you accepted fortune's blows and gifts with equal thanks, and so on.” Editorial note: the extraction’s “thon” and “beffets” have been corrected to “thou” and “buffets,” checked against the Folger Shakespeare text of *Hamlet*, Act 3, scene 2. Schopenhauer’s excerpt and its German gloss are retained.

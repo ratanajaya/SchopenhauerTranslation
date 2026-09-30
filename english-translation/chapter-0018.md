@@ -26,7 +26,7 @@ From this double life arises that human composure which differs so greatly from 
 
 Then one sees the extent to which reason becomes master over animal nature, and one calls out to the strong person:
 
-> `σιδηϱειον νυ τοι ἡτοϱ!`
+> `σιδήρειόν νύ τοι ἦτορ!`
 > `ferreum certe tibi cor!`
 > Translation: Surely you have an iron heart! (`Iliad`, 24.521)
 
@@ -40,7 +40,7 @@ The most complete development of *practical reason*, in the true and genuine sen
 
 For Stoic ethics is originally and essentially not a doctrine of virtue at all, but merely instruction for rational living, whose aim and purpose is happiness through peace of mind. Virtuous conduct enters into it, so to speak, only `per accidens` (accidentally), as a means, not as an end. Therefore Stoic ethics, in its whole essence and point of view, is fundamentally different from ethical systems that press directly toward virtue, such as the teachings of the Vedas, Plato, Christianity, and Kant.
 
-The aim of Stoic ethics is happiness: `virtutes omnes finem habere beatitudinem` (all virtues have happiness as their end), as it says in Stobaeus' account of the Stoa (`Ecl.`, book II, chapter 7, p. 114, and also p. 138). Yet Stoic ethics shows that happiness is to be found securely only in inner peace and tranquility of mind, `ataraxia` (undisturbedness), and that this in turn is to be reached only through virtue. This alone is what the expression means when it says that virtue is the highest good.
+The aim of Stoic ethics is happiness: τέλος τὸ εὐδαιμονεῖν (“the end is happiness”); `virtutes omnes finem habere beatitudinem` (all virtues have happiness as their end), as it says in Stobaeus' account of the Stoa (`Ecl.`, book II, chapter 7, p. 114, and also p. 138). Yet Stoic ethics shows that happiness is to be found securely only in inner peace and tranquility of mind, ἀταραξία (*ataraxia*, undisturbedness), and that this in turn is to be reached only through virtue. This alone is what the expression means when it says that virtue is the highest good.
 
 If, however, the end is gradually forgotten over the means, and virtue is recommended in a way that betrays an entirely different interest from that of one's own happiness, indeed one that too plainly contradicts it, this is one of the inconsistencies by which, in every system, the immediately cognized, or as people say felt, truth forces conclusions back onto the right path. One sees this clearly, for example, in Spinoza's ethics, which derives a pure doctrine of virtue from the egoistic `suum utile quaerere` (to seek one's own advantage) by palpable sophisms.
 
@@ -50,6 +50,7 @@ It was considered unworthy of reason's prerogative that the being endowed with i
 
 Thus Antisthenes said:
 
+> Δεῖ κτᾶσθαι νοῦν, ἢ βρόχον
 > `aut mentem parandam, aut laqueum`
 > Translation: Either one must prepare the mind, or prepare a noose. (`Plut. de stoic. repugn.`, chapter 14)
 
@@ -57,6 +58,7 @@ That is, life is so full of plagues and drudgeries that one must either, by mean
 
 It was recognized that deprivation and suffering do not arise immediately and necessarily from not having, but only from wanting to have and yet not having. This wanting-to-have is therefore the necessary condition under which alone not-having becomes deprivation and produces pain.
 
+> Οὐ πενία λύπην ἐργάζεται, ἀλλὰ ἐπιθυμία
 > `non paupertas dolorem efficit, sed cupiditas`
 > Translation: Poverty does not produce pain, but desire does. (`Epict. fragm. 25`)
 
@@ -64,7 +66,7 @@ It was also recognized from experience that hope alone, the claim, is what gives
 
 From all this it followed that all happiness rests only on the relation between our claims and what we receive. Whether the two magnitudes in this relation are great or small is irrelevant; the relation can be established just as well by decreasing the first magnitude as by increasing the second. Likewise, all suffering really arises from the disproportion between what we demand and expect and what we receive. But this disproportion plainly lies only in cognition [^1], and could be entirely removed through better insight.
 
-Thus Chrysippus said that one should live with proper knowledge of the course of things in the world (`Stob. Ecl.`, book II, chapter 7, p. 134). For whenever a human being loses composure in any way, is struck down by misfortune, becomes angry, or loses heart, he thereby shows that he finds things otherwise than he expected. Consequently, he had been caught in error; he did not know the world and life. He did not know how, at every step, lifeless nature through chance, and living nature through opposing aims and also through malice, cross the will of the individual.
+Thus Chrysippus said, δεῖ ζῆν κατ’ ἐμπειρίαν τῶν φύσει συμβαινόντων (“one should live with proper knowledge of the course of things in the world”; `Stob. Ecl.`, book II, chapter 7, p. 134). For whenever a human being loses composure in any way, is struck down by misfortune, becomes angry, or loses heart, he thereby shows that he finds things otherwise than he expected. Consequently, he had been caught in error; he did not know the world and life. He did not know how, at every step, lifeless nature through chance, and living nature through opposing aims and also through malice, cross the will of the individual.
 
 He has either not used his reason in order to arrive at a universal knowledge of this character of life, or else he lacks power of judgment, since what he knows in general he fails to recognize again in the particular, and is therefore surprised and thrown out of composure by it. [^2]
 
@@ -78,17 +80,19 @@ Later the question was asked whether the names `bonum et malum` (good and evil) 
 
 *Zeno*, the founder, seems originally to have taken a somewhat different path. His starting point was that, in order to attain the highest good, that is, blessedness and peace of mind, one should live in agreement with oneself.
 
+> ὁμολογουμένως ζῆν· τοῦτο δ’ ἐστὶ καθ’ ἕνα λόγον καὶ σύμφωνον ζῆν.
 > `Consonanter vivere: hoc est secundum unam rationem et concordem sibi vivere.`
 > Translation: To live harmoniously: that is, to live according to one reason and in agreement with oneself. (`Stob. Ecl. eth.`, book II, chapter 7, p. 132)
 
 Likewise:
 
+> Ἀρετὴν διάθεσιν εἶναι ψυχῆς σύμφωνον ἑαυτῇ περὶ ὅλον τὸν βίον.
 > `Virtutem esse animi affectionem secum per totam vitam consentientem.`
 > Translation: Virtue is a disposition of the soul agreeing with itself throughout the whole of life. (`ibid.`, p. 104)
 
 But this was possible only by determining oneself throughout *rationally*, according to concepts, not according to changing impressions and moods. Since only the maxim of our action is in our power, not the success or the external circumstances, one had, in order always to remain consistent, to make only that maxim one's end, not success and external circumstances. In this way the doctrine of virtue was again introduced.
 
-But already Zeno's immediate successors found his moral principle, living in agreement, too formal and empty of content. They therefore gave it material content by adding "to live in agreement with nature," which, as Stobaeus reports in the passage cited, was first added by *Cleanthes*. This pushed the matter very far afield, because of the wide sphere of the concept and the indefiniteness of the expression. For *Cleanthes* meant the whole of universal nature, but *Chrysippus* meant human nature in particular (`Diog. Laert.`, 7, 89).
+But already Zeno's immediate successors found his moral principle, living in agreement, too formal and empty of content. They therefore gave it material content by adding "to live in agreement with nature" (ὁμολογουμένως τῇ φύσει ζῆν), which, as Stobaeus reports in the passage cited, was first added by *Cleanthes*. This pushed the matter very far afield, because of the wide sphere of the concept and the indefiniteness of the expression. For *Cleanthes* meant the whole of universal nature, but *Chrysippus* meant human nature in particular (`Diog. Laert.`, 7, 89).
 
 What was appropriate to this latter alone was then supposed to be virtue, just as satisfaction of animal drives is appropriate to animal natures. Thus the doctrine was again forcibly turned toward virtue, and, come what may, ethics was to be grounded through physics. For the Stoics aimed everywhere at unity of principle; indeed, with them God and the world were not two different things at all.
 
@@ -116,12 +120,14 @@ The inner contradiction already mentioned, with which Stoic ethics is burdened e
 How wholly different, when placed beside him, appear the world-conquerors and voluntary penitents that Indian wisdom presents to us and has actually produced; or even the Savior of Christianity, that excellent figure full of deep life, of the greatest poetic truth and highest significance, who nevertheless, with perfect virtue, holiness, and sublimity, stands before us in the state of the highest suffering. [^3]
 
 [^1]: `Omnes perturbationes judicio censent fieri et opinione. Cic. Tusc., 4, 6.`
-Translation: All disturbances are held to arise through judgment and opinion.
+    Translation: All disturbances are held to arise through judgment and opinion.
 
-`Perturbant homines non res ipsae, sed de rebus opiniones. Epictet., c. V.`
-Translation: Human beings are disturbed not by things themselves, but by their opinions about things.
+    Ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα.
+    `Perturbant homines non res ipsae, sed de rebus opiniones. Epictet., c. V.`
+    Translation: Human beings are disturbed not by things themselves, but by their opinions about things.
 
-[^2]: `Haec est causa mortalibus omnium malorum, non posse communes notiones aptare singularibus. Epict. dissert., III, 26.`
-Translation: This is the cause of all evils for mortals: not being able to apply common notions to particular cases.
+[^2]: Τοῦτο γάρ ἐστι τὸ αἴτιον τοῖς ἀνθρώποις πάντων τῶν κακῶν, τὸ τὰς προλήψεις τὰς κοινὰς μὴ δύνασθαι ἐφαρμόζειν τοῖς ἐπὶ μέρους.
+    `Haec est causa mortalibus omnium malorum, non posse communes notiones aptare singularibus. Epict. dissert., IV, 1, 42.`
+    Translation: This is the cause of all evils for mortals: not being able to apply common notions to particular cases. Editorial note: the German extract cites III, 26; the quoted words occur at IV, 1, 42.
 
 [^3]: On this, chapter 16 of the second volume.

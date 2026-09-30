@@ -1,0 +1,35 @@
+Schopenhauer Translation — release licensing
+
+Copyright 2026 Ratanajaya for the translation, original editorial material,
+and original cover layout, to the extent copyright applies.
+
+These contributions are licensed under Creative Commons Attribution 4.0
+International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+Full legal terms: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+You may share and adapt this material, including for commercial purposes,
+subject to the license. Give appropriate credit to Ratanajaya, provide a link
+to the license, and indicate if changes were made. Do not imply endorsement
+by Ratanajaya or OpenAI. The linked legal code governs; this statement is a
+summary of the license and its scope.
+
+Suggested attribution:
+The World as Will and Representation, Volume I, by Arthur Schopenhauer.
+English translation by Ratanajaya, with AI assistance from OpenAI GPT-5.5
+and GPT-6 Sol. Licensed under CC BY 4.0.
+https://github.com/ratanajaya/SchopenhauerTranslation
+
+Excluded material:
+- Arthur Schopenhauer's historical German text and J. Schäfer's March 1859
+  portrait are public-domain source material, not newly licensed contributions.
+- The original portrait is credited to J. Schäfer, Frankfurt am Main University
+  Library, via Wikimedia Commons:
+  https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Sch%C3%A4fer,_1859.jpg
+- Scripts and build tools are excluded from this CC BY grant; no new software
+  license is assigned by this file.
+- Fonts, reference editions, validation tools, and other third-party assets
+  retain their own terms. Font files and reference editions are not included
+  in the release package.
+
+OpenAI model names identify AI assistance and do not imply sponsorship.

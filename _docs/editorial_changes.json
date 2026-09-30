@@ -1,0 +1,1020 @@
+[
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "σιδηϱειον νυ τοι ἡτοϱ!",
+    "after": "σιδήρειόν νύ τοι ἦτορ!",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "τελος το ευδαιμονειν",
+    "after": "τέλος τὸ εὐδαιμονεῖν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "αταϱαξια",
+    "after": "ἀταραξία",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Δει ϰτασϑαι νουν, η βϱοχον",
+    "after": "Δεῖ κτᾶσθαι νοῦν, ἢ βρόχον",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Ου πενια λυπην εϱγαζεται, αλλα επιϑυμια`n>",
+    "after": "Οὐ πενία λύπην ἐργάζεται, ἀλλὰ ἐπιθυμία\n>",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "δει ζην χατ' εμπειοιαν των φνσει σνμβαινοντων",
+    "after": "δεῖ ζῆν κατ’ ἐμπειρίαν τῶν φύσει συμβαινόντων",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "ὁμολογουμενως ζῃν τουτο δ' εστι ϰαϑ' ἑνα λογον ϰαι συμφωνον ζῃν.",
+    "after": "ὁμολογουμένως ζῆν· τοῦτο δ’ ἐστὶ καθ’ ἕνα λόγον καὶ σύμφωνον ζῆν.",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Αϱετην διαϑεσιν ειναι ψυχης συφωνον ἑαυτῃ πεϱι ὁλον τον βιον.",
+    "after": "Ἀρετὴν διάθεσιν εἶναι ψυχῆς σύμφωνον ἑαυτῇ περὶ ὅλον τὸν βίον.",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "\"to live in agreement with nature\" (ὁμολογουμενως)",
+    "after": "\"to live in agreement with nature\" (ὁμολογουμένως τῇ φύσει ζῆν)",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore corrupted letters and the actual line break; normalize Greek typography. The nature qualification was missing from the English parenthesis."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Τα ρασσ ει το υζ ανϑ ρωπο υζ ο υ τα π ραγμα τα, αλλα τα π ερι των π ραγμα των δογμα τα (Greek as printed in the extract).",
+    "after": "Ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα.",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0557/",
+    "decision": "Check Encheiridion 5.1 and Discourses 4.1.42 in Schenkl’s Greek text, correcting the historical cross-reference as an explicit editorial note."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Τουτο γα ρεσ τι το αι τιον τοις ανϑ ρωποι ζ παν των των ϰαϰων, το τας π ροληψ εις τας ϰοινας μη δ υνασϑσι εφα ρμοζ ειν ταις επι μ ερο υς (Greek as printed in the extract).",
+    "after": "Τοῦτο γάρ ἐστι τὸ αἴτιον τοῖς ἀνθρώποις πάντων τῶν κακῶν, τὸ τὰς προλήψεις τὰς κοινὰς μὴ δύνασθαι ἐφαρμόζειν τοῖς ἐπὶ μέρους.",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0557/",
+    "decision": "Check Encheiridion 5.1 and Discourses 4.1.42 in Schenkl’s Greek text, correcting the historical cross-reference as an explicit editorial note."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Epict. dissert., III, 26.",
+    "after": "Epict. dissert., IV, 1, 42.",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0557/",
+    "decision": "Check Encheiridion 5.1 and Discourses 4.1.42 in Schenkl’s Greek text, correcting the historical cross-reference as an explicit editorial note."
+  },
+  {
+    "file": "english-translation/chapter-0018.md",
+    "before": "Translation: This is the cause of all evils for mortals: not being able to apply common notions to particular cases.",
+    "after": "Translation: This is the cause of all evils for mortals: not being able to apply common notions to particular cases. Editorial note: the German extract cites III, 26; the quoted words occur at IV, 1, 42.",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0557/",
+    "decision": "Check Encheiridion 5.1 and Discourses 4.1.42 in Schenkl’s Greek text, correcting the historical cross-reference as an explicit editorial note."
+  },
+  {
+    "file": "english-translation/chapter-0027.md",
+    "before": "ὁ πλατων φησι, εν τῃ φυσει τας ιδεας ἑσταναι, ϰαϑαπεϱ παϱαδειγματα τα δ' αλλα ταυταις εοιϰεναι, τουτων ὁμοιωματα ϰαϑεστωτα.",
+    "after": "ὁ Πλάτων φησί, ἐν τῇ φύσει τὰς ἰδέας ἑστάναι, καθάπερ παραδείγματα· τὰ δ’ ἄλλα ταύταις ἐοικέναι, τούτων ὁμοιώματα καθεστῶτα.",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0004/tlg001/",
+    "decision": "Verify the quotation against Hicks’s Diogenes Laertius III; retain Schopenhauer’s introductory paraphrase and normalize the quotation."
+  },
+  {
+    "file": "english-translation/chapter-0043.md",
+    "before": "Όϱιζονται δε την ιδεαν, παϱαδειγμα των ϰατα φυσιν αιωνιον. Ουτε γαϱ τοις πλειστοις των απο Πλατωνος αϱεσϰει, των τεχνιϰων ειναι ιδεας, οἱον ασπιδος η λυϱας, ουτε μην των παϱα φυσιν, οἱον πυϱετου ϰαι χολεϱας, ουτε των ϰατα μεϱος, οἱον Σωϰϱατους ϰαι Πλατωνος, αλλ' ουτε των ευτελων τινος, οἱον ϱυπου ϰαι ϰαϱφους, ουτε των ποος τι, οἱον μειζονος ϰαι ὑπεϱεχοντος ειναι γαϱ τας ιδεας νοησεις ϑεου αιωνιους τε ϰαι αυτοτελεις",
+    "after": "Ὁρίζονται δὲ τὴν ἰδέαν παράδειγμα τῶν κατὰ φύσιν αἰώνιον. Οὔτε γὰρ τοῖς πλείστοις τῶν ἀπὸ Πλάτωνος ἀρέσκει τῶν τεχνικῶν εἶναι ἰδέας, οἷον ἀσπίδος ἢ λύρας, οὔτε μὴν τῶν παρὰ φύσιν, οἷον πυρετοῦ καὶ χολέρας, οὔτε τῶν κατὰ μέρος, οἷον Σωκράτους καὶ Πλάτωνος, ἀλλ’ οὐδὲ τῶν εὐτελῶν τινος, οἷον ῥύπου καὶ κάρφους, οὔτε τῶν πρός τι, οἷον μείζονος καὶ ὑπερέχοντος· εἶναι γὰρ τὰς ἰδέας νοήσεις θεοῦ αἰωνίους τε καὶ αὐτοτελεῖς.",
+    "source": "https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/academic/1415/1067/1461/Platonist_Philosophy_Texts.pdf",
+    "decision": "Alcinous Didaskalikos 9.2, Boys-Stones source collection, printed p. 141 / PDF p. 59; collate Greek and check the retained Latin gloss against the published Schopenhauer witness."
+  },
+  {
+    "file": "english-translation/chapter-0043.md",
+    "before": "φνσει",
+    "after": "φύσει",
+    "source": "https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/academic/1415/1067/1461/Platonist_Philosophy_Texts.pdf",
+    "decision": "Alcinous Didaskalikos 9.2, Boys-Stones source collection, printed p. 141 / PDF p. 59; collate Greek and check the retained Latin gloss against the published Schopenhauer witness."
+  },
+  {
+    "file": "english-translation/chapter-0043.md",
+    "before": "ideae corum",
+    "after": "ideae eorum",
+    "source": "https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/academic/1415/1067/1461/Platonist_Philosophy_Texts.pdf",
+    "decision": "Alcinous Didaskalikos 9.2, Boys-Stones source collection, printed p. 141 / PDF p. 59; collate Greek and check the retained Latin gloss against the published Schopenhauer witness."
+  },
+  {
+    "file": "english-translation/chapter-0055.md",
+    "before": "At the moment knowledge arrived, love arose from its midst.",
+    "after": "At the time when knowledge appeared, love arose from the midst.",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "The printed Book Four epigraph confirms the Latin and vol. II p. 216 attribution. Retain an English gloss without supplying an unstated referent for e medio."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "ποντανενονοα",
+    "after": "πρυτανεύουσα",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Published §57 confirms the participle πρυτανευουσα; normalize its accent and translate its literal sense."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "(the source's Greek term for the dominant worry)",
+    "after": "(presiding)",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Published §57 confirms the participle πρυτανευουσα; normalize its accent and translate its literal sense."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "In the popular religion, by contrast, they communicated it only through myth.",
+    "after": "In the popular religion, or exoteric teaching, by contrast, they communicated it only through myth.",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "The published §63 distinguishes esoteric teaching from exoteric popular religion; restore the explicit distinction."
+  },
+  {
+    "file": "english-translation/chapter-0070.md",
+    "before": "σμιϰϱα ϰαι μεαλα μυστηϱια",
+    "after": "σμικρὰ καὶ μεγάλα μυστήρια",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore μεγάλα and normalize the small/greater mysteries and second-voyage terms against the published §68."
+  },
+  {
+    "file": "english-translation/chapter-0070.md",
+    "before": "δευτεϱος πλους",
+    "after": "δεύτερος πλοῦς",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Restore μεγάλα and normalize the small/greater mysteries and second-voyage terms against the published §68."
+  },
+  {
+    "file": "english-translation/chapter-0073.md",
+    "before": "Την του ἑτερου φυσιν αποδειξαντες ουσαν τε, ϰαι ϰαταϰεϰερματισμενην επι παντα τα οντα προς αλληλα, το προς το ον ϰαστον μοριον αυτης αντιτιϑεμενον, ετολμησαμευ ειπειν, ὡς αυτο τουτο εστιν ουτως το μη ον.",
+    "after": "Τὴν τοῦ ἑτέρου φύσιν ἀποδείξαντες οὖσαν τε, καὶ κατακεκερματισμένην ἐπὶ πάντα τὰ ὄντα πρὸς ἄλληλα, τὸ πρὸς τὸ ὂν ἕκαστον μόριον αὐτῆς ἀντιτιθέμενον, ἐτολμήσαμεν εἰπεῖν, ὡς αὐτὸ τοῦτό ἐστιν ὄντως τὸ μὴ ὄν.",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0059/tlg007/",
+    "decision": "Compare Burnet Sophist 258e and the published §71. Correct extraction errors; retain the historical quotation’s introduction rather than silently substituting Burnet’s different opening."
+  },
+  {
+    "file": "english-translation/chapter-0073.md",
+    "before": "oppsitam",
+    "after": "oppositam",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0059/tlg007/",
+    "decision": "Compare Burnet Sophist 258e and the published §71. Correct extraction errors; retain the historical quotation’s introduction rather than silently substituting Burnet’s different opening."
+  },
+  {
+    "file": "english-translation/chapter-0073.md",
+    "before": "Bipont edition):",
+    "after": "Bipont edition; *Sophist* 258e):",
+    "source": "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0059/tlg007/",
+    "decision": "Compare Burnet Sophist 258e and the published §71. Correct extraction errors; retain the historical quotation’s introduction rather than silently substituting Burnet’s different opening."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Την ηϑιϰην αϱετην ὑπολαμβανουσι πεϱι το αλογον μεϱος γιγνεσϑαι της φυχης, επειδη διμεϱη πϱος την παϱουσαν ὑπεϑεν το την φυχην, το μεν λογιϰον εχουσαν , το δ ' αλογον . Και πεϱι μεν το λογιϰον την ϰαλοϰᾳγαϑιαν γιγνεσϑαι , ϰαι την ρϱονησιν, ϰαι την αγχινοιαν , ϰαι σοφιαν, ϰαι ευμαϑειαν , ϰαι μνημην, ϰαι τας ὁμοιους πεϱι δε το αλογον , αωφοσυνην , ϰαι διϰαιοσυνην , ϰαι ανδϱειαν, ϰαι τας αλλας τας ηϑιϰας ϰαλουμενας.",
+    "after": "Τὴν ἠθικὴν ἀρετὴν ὑπολαμβάνουσι περὶ τὸ ἄλογον μέρος γίγνεσθαι τῆς ψυχῆς, ἐπειδὴ διμερῆ πρὸς τὴν παροῦσαν θεωρίαν ὑπέθεντο τὴν ψυχήν, τὸ μὲν λογικὸν ἔχουσαν, τὸ δ’ ἄλογον. Καὶ περὶ μὲν τὸ λογικὸν τὴν καλοκαγαθίαν γίγνεσθαι, καὶ τὴν φρόνησιν, καὶ τὴν ἀγχίνοιαν, καὶ σοφίαν, καὶ εὐμάθειαν, καὶ μνήμην, καὶ τὰς ὁμοίους· περὶ δὲ τὸ ἄλογον, σωφροσύνην, καὶ δικαιοσύνην, καὶ ἀνδρείαν, καὶ τὰς ἄλλας τὰς ἠθικὰς καλουμένας ἀρετάς.[^stobaeus-text]",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "ἡ δε πλανη γεγονεν αυτοις απο του ἡγεισαι, παντα τα ἑνεϰα του γινομενα ϰατα πϱοαιϱεσιν γενεσται ϰαι λογσμον, τα δε φυσει μη οὑτως ὁϱαν γινομενα.",
+    "after": "ἡ δὲ πλάνη γέγονεν αὐτοῖς ἀπὸ τοῦ ἡγεῖσθαι, πάντα τὰ ἕνεκά του γινόμενα κατὰ προαίρεσιν γενέσθαι καὶ λογισμόν, τὰ δὲ φύσει μὴ οὕτως ὁρᾶν γινόμενα.",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "daturae opera",
+    "after": "naturae opera",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αποσυληας, as printed in the extract",
+    "after": "ἀποσυλήσας",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Τι γαϱ εστι Πλατων, η Μοσης αττιϰιζωη;",
+    "after": "Τί γάρ ἐστι Πλάτων, ἢ Μωσῆς ἀττικίζων;",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Οιδα σου τους διδασϰαλους, ϰᾁν αποϰϱυπτειν, εϑελης – – – – – δοξαν την του ϑεου παϱ αυτων ωφελησας των Εβϱαιων",
+    "after": "Οἶδά σου τοὺς διδασκάλους, κἂν ἀποκρύπτειν ἐθέλῃς ... δόξαν τὴν τοῦ θεοῦ παρ’ αὐτῶν ὠφελήσει τῶν Ἑβραίων",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "μεγαλφ πεδιῳ",
+    "after": "μεγάλῳ πεδίῳ",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Ονϰ ε στ ιν ενεϱγε ια ε ιν αι τ ο απε ιϱ ον",
+    "after": "Οὐκ ἔστιν ἐνεργείᾳ εἶναι τὸ ἄπειρον",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αλλ' αδυν ατ ον τ ο εντελεχε ιᾳ ον απειϱ ον",
+    "after": "ἀλλ’ ἀδύνατον τὸ ἐντελεχείᾳ ὂν ἄπειρον",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "ϰατ' ενεϱ γειαν μεν γαϱ ουδεν εστιν απειϱ ον, δυναμει δε επι την διαιϱ εσιν",
+    "after": "κατ’ ἐνέργειαν μὲν γὰρ οὐδέν ἐστιν ἄπειρον, δυνάμει δὲ ἐπὶ τὴν διαίρεσιν",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "δημιονϱος",
+    "after": "δημιουργός",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "διϰαιος and αδιϰος λογο",
+    "after": "δίκαιος and ἄδικος λόγος",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αλογω μοϱιῳ της φυχης",
+    "after": "ἀλόγῳ μορίῳ τῆς ψυχῆς",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "not in the λογον,",
+    "after": "not in the λόγον ἔχοντι,",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "νοουμενα φ αινομενοις αντετιϑη Αναξαγοϱας",
+    "after": "νοούμενα φαινομένοις ἀντετίθη Ἀναξαγόρας",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate appendix quotations with the published 1909 witness. Restore missing letters, words, and clause endings; preserve historical quotation variants with a note rather than treating them as extraction errors."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "[^1]: *Umbrarum fluctu terras mergente, cacumen*<br>\n    *Adtolle in clarum, noster Olympe, Jovem.*<br>\n    “While a flood of shadows submerges the earth, lift your summit, our Olympus, toward bright Jupiter.”\n\n",
+    "after": "",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Restore the four consecutive lines of Bruno’s poem within note 2; note 1 was an extraction split, not a separate authorial note."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "    “Troubled mind, what prevents you from hastening to bring forth your offspring, though it must be given to an unworthy age?”[^1]<br>",
+    "after": "    *Umbrarum fluctu terras mergente, cacumen*<br>\n    *Adtolle in clarum, noster Olympe, Jovem.*<br>\n    “Troubled mind, what prevents you from hastening to bring forth your offspring, though it must be given to an unworthy age? While a flood of shadows submerges the earth, lift your summit, our Olympus, toward bright Jupiter.”<br>",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Restore the four consecutive lines of Bruno’s poem within note 2; note 1 was an extraction split, not a separate authorial note."
+  },
+  {
+    "file": "english-translation/chapter-0017.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0020.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0029.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0032.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0034.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0035.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0053.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0054.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "decision": "Normalize Greek letter glyphs and Unicode NFC; retain wording and source-attested accents."
+  },
+  {
+    "file": "english-translation/chapter-0017.md",
+    "before": "φαινομενον",
+    "after": "φαινόμενον",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0017.md",
+    "before": "νοουενον (*nooumenon*",
+    "after": "νοούμενον (*noumenon*",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0017.md",
+    "before": "Ακριβεστερα δ' επστημη επστημης και προτερα, ἡτε του ὁτι και του διοτι ἡ αυτη, αλλα μη χωρις του ὁτι, της του διοτι.",
+    "after": "Ἀκριβεστέρα δ’ ἐπιστήμη ἐπιστήμης καὶ προτέρα, ἥ τε τοῦ ὅτι καὶ τοῦ διότι ἡ αὐτή, ἀλλὰ μὴ χωρὶς τοῦ ὅτι, τῆς τοῦ διότι.",
+    "source": "https://www.physics.ntua.gr/mourmouras/greats/aristoteles/analytika_ystera.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0020.md",
+    "before": "κατ εξοχην",
+    "after": "κατ’ ἐξοχήν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0022.md",
+    "before": "τώς νόος",
+    "after": "τὼς νόος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0029.md",
+    "before": "ει γαρ μη ην τo νεικoς εν τoις πραγμασιν, εν αν ην ἁπαντα ὡς φησιν Εμπεδoκλης",
+    "after": "εἰ γὰρ μὴ ἦν τὸ νεῖκος ἐν τοῖς πράγμασιν, ἓν ἂν ἦν ἅπαντα ὡς φησιν Ἐμπεδοκλῆς",
+    "source": "https://github.com/PerseusDL/canonical-greekLit",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0029.md",
+    "before": "μηχανη",
+    "after": "μηχανή",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0032.md",
+    "before": "Τι τὸ ὄν μὲν ἀεὶ, γένεσιν δὲ οὐκ ἔχον; καὶ τι τὸ γιγνύμενον",
+    "after": "Τί τὸ ὂν μὲν ἀεί, γένεσιν δὲ οὐκ ἔχον; καὶ τί τὸ γιγνόμενον",
+    "source": "https://github.com/PerseusDL/canonical-greekLit",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0032.md",
+    "before": "μὲν καὶ ὐ πολλύμενον, ὔντως δὲ οὐδέποτε ὄν; ΠΛΑΤΩΝ",
+    "after": "μὲν καὶ ἀπολλύμενον, ὄντως δὲ οὐδέποτε ὄν; ΠΛΑΤΩΝ[^epigraph]",
+    "source": "https://github.com/PerseusDL/canonical-greekLit",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "ειδῆ",
+    "after": "εἴδη",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "οντως ον",
+    "after": "ὄντως ὄν",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "επιστημη",
+    "after": "ἐπιστήμη",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "δοξα μετ' αισθησεως αλογον",
+    "after": "δόξα μετ’ αἰσθήσεως ἄλογον",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "αυτο το θηριον",
+    "after": "αὐτὸ τὸ θηρίον",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "καθ' ἑαυτο, αει ὡς αυτω",
+    "after": "καθ’ ἑαυτό, ἀεὶ ὡσαύτως",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "αει ον και μηδεποτε ουτε γιγνομενον, ουτε απολλυμενον",
+    "after": "ἀεὶ ὂν καὶ μηδέποτε οὔτε γιγνόμενον, οὔτε ἀπολλύμενον",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "Εισι δη ναρθηκοφοροι μεν πολλοι, βακχοι δε γε πανροι",
+    "after": "Εἰσὶ δὴ ναρθηκοφόροι μὲν πολλοί, βάκχοι δέ γε παῦροι",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "Η ατιμια φιλοσοφια δικ ταυτα προδπεπτωκεν, ὁτι ου κατ' αξιαν αυτης ἁπτονται ου γαρ νοθους εδει ἁπτεσθαι, αλλα γνησιους",
+    "after": "Ἡ ἀτιμία φιλοσοφίᾳ διὰ ταῦτα προσπέπτωκεν, ὅτι οὐ κατ’ ἀξίαν αὐτῆς ἅπτονται· οὐ γὰρ νόθους ἔδει ἅπτεσθαι, ἀλλὰ γνησίους",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus, Phaedo, Republic); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0034.md",
+    "before": "αιωνος εικων κινητη ὁ χρονος",
+    "after": "αἰῶνος εἰκὼν κινητὴ ὁ χρόνος",
+    "source": "https://github.com/PerseusDL/canonical-greekLit",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0035.md",
+    "before": "μηχανη",
+    "after": "μηχανή",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0035.md",
+    "before": "πολυτελεστερα",
+    "after": "πολυτελεστέρα",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0043.md",
+    "before": "ὁ Πλατων εφη, ὁτι ειδη εστιν ὁποσα φύσει",
+    "after": "ὁ Πλάτων ἔφη, ὅτι εἴδη ἐστὶν ὁπόσα φύσει",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0053.md",
+    "before": "Εν δ' επεσ' Ωκεανῳ λαμπρυν φαος ἡελιοιο,",
+    "after": "Ἐν δ’ ἔπεσ’ Ὠκεανῷ λαμπρὸν φάος ἠελίοιο,",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Iliad VIII.485–486)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0053.md",
+    "before": "Έλκυν νυκτα μελαιναν επι ζειδωρον αρουρυν",
+    "after": "Ἕλκον νύκτα μέλαιναν ἐπὶ ζείδωρον ἄρουραν",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Iliad VIII.485–486)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0053.md",
+    "before": "κατ' εξοχην",
+    "after": "κατ’ ἐξοχήν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0054.md",
+    "before": "ἡ των μελων κινησις μεμιμημενη, εν τοις παθημασιν ὁταν ψυχη γινηται",
+    "after": "ἡ τῶν μελῶν κίνησις μεμιμημένη, ἐν τοῖς παθήμασιν ὅταν ψυχὴ γίνηται",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0054.md",
+    "before": "δια τι οἱ ρυθμοι και τα μελη, φωνη ουσα, ηθεσιν εοικε",
+    "after": "διὰ τί οἱ ῥυθμοὶ καὶ τὰ μέλη, φωνὴ οὖσα, ἤθεσιν ἔοικε",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0054.md",
+    "before": "τω αριμω δε τα παντ' επεοιχεν",
+    "after": "τῷ ἀριθμῷ δὲ τὰ πάντ’ ἐπέοικεν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0055.md",
+    "before": "ουδεν εστι, η το της στερησεως ονομα, μετα αμυδρας επινοιας",
+    "after": "οὐδέν ἐστι, ἢ τὸ τῆς στερήσεως ὄνομα, μετὰ ἀμυδρᾶς ἐπινοίας",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0055.md",
+    "before": "νεφελοκοκκυγια",
+    "after": "νεφελοκοκκυγία",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "Το γαρ ηθος απο του εθους εχει την επωνυμιαν. ηθικη γαρ καλειται δια το εθιζεοθαι",
+    "after": "Τὸ γὰρ ἦθος ἀπὸ τοῦ ἔθους ἔχει τὴν ἐπωνυμίαν. ἠθικὴ γὰρ καλεῖται διὰ τὸ ἐθίζεσθαι",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "οἱ δε κατα Ζηνωνα τροπικως ηθος εστι πηγε βιου, αφ' ἡς αἱ κατα μερος πραξεις ρεουοι",
+    "after": "οἱ δὲ κατὰ Ζήνωνα τροπικῶς· ἦθός ἐστι πηγὴ βίου, ἀφ’ ἧς αἱ κατὰ μέρος πράξεις ῥέουσι",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "διδαχτην ειναι την αρετην",
+    "after": "διδακτὴν εἶναι τὴν ἀρετήν",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Diogenes Laertius)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "Ταρασσει τους ανθρωπους ου τα πραγματα, αλλα τα περι των πραγματων δογματα",
+    "after": "Ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Epictetus Encheiridion 5.1)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "απο του εθιζεσθαι",
+    "after": "ἀπὸ τοῦ ἐθίζεσθαι",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "αργος λογος",
+    "after": "ἀργὸς λόγος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "θνμὸν ἐνὶ στήθεσσι φιλον δαμάσαντες ἀνάγχη",
+    "after": "θυμὸν ἐνὶ στήθεσσι φίλον δαμάσαντες ἀνάγκῃ",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Iliad XVIII.113)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "πηλειδης δ' ῳμωξεν, ιδων εις ουρανον ευρυν",
+    "after": "Πηλεΐδης δ’ ᾤμωξεν, ἰδὼν εἰς οὐρανὸν εὐρύν",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Iliad XXI.272)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "Ζηνος μεν παις ηα κρονιονος, αυταρ οιζυν",
+    "after": "Ζηνὸς μὲν πάϊς ἦα Κρονίονος, αὐτὰρ ὀιζὺν",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Odyssey XI.620–621)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "Ειχον απειρεσιην",
+    "after": "Εἶχον ἀπειρεσίην",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Odyssey XI.620–621)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "ευκολος",
+    "after": "εὔκολος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0059.md",
+    "before": "δυσκολος",
+    "after": "δύσκολος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0062.md",
+    "before": "Οἱ μεν ευνουχισαντες ἑαυτους απο πασης ἁμαρτιας, δια την βασιλειαν των ουρανων, μακαριοι οὑτοι εισιν, οἱ του κοσμου νηστευοντες",
+    "after": "Οἱ μὲν εὐνουχίσαντες ἑαυτοὺς ἀπὸ πάσης ἁμαρτίας, διὰ τὴν βασιλείαν τῶν οὐρανῶν, μακάριοι οὗτοί εἰσιν, οἱ τοῦ κόσμου νηστεύοντες",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0062.md",
+    "before": "Εις ερωτα μεταβεβληυθαι τον Δια, μελλοντα δημιουργειν",
+    "after": "Εἰς ἔρωτα μεταβεβλῆσθαι τὸν Δία, μέλλοντα δημιουργεῖν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0064.md",
+    "before": "Τελος μεν ουν πολεως το εν ζῃν τουτο δε εστιν το ζῃν ευδαιμονως και καλως",
+    "after": "Τέλος μὲν οὖν πόλεως τὸ εὖ ζῆν· τοῦτο δέ ἐστιν τὸ ζῆν εὐδαιμόνως καὶ καλῶς",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Politics III.1280b)",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Δοκειτε πηδᾳν τ' αδικηματ' εις θεους",
+    "after": "Δοκεῖτε πηδᾶν τ’ ἀδικήματ’ εἰς θεοὺς",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Πτεροισι, καπειτ' εν διος δελτου πτυχαις",
+    "after": "Πτεροῖσι, κἄπειτ’ ἐν Διὸς δέλτου πτυχαῖς",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Γραφειν τιν' αυτα, Ζηνα δ' εισορωντα νιν",
+    "after": "Γράφειν τιν’ αὐτά, Ζῆνα δ’ εἰσορῶντα νιν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Θνητοις δικαζειν; Ουδ' ὁ πας ουρανος",
+    "after": "Θνητοῖς δικάζειν; Οὐδ’ ὁ πᾶς οὐρανὸς",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Διος γραφοντος τας βροτων ἁμαρτιας",
+    "after": "Διὸς γράφοντος τὰς βροτῶν ἁμαρτίας",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Εξαρκεσειεν, ουδ' εκεινος αν σκοπων",
+    "after": "Ἐξαρκέσειεν, οὐδ’ ἐκεῖνος ἂν σκοπῶν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Πεμπειν ἑκαστῳ ζημιαν αλλ' ἡ Δικη",
+    "after": "Πέμπειν ἑκάστῳ ζημίαν· ἀλλ’ ἡ Δίκη",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0065.md",
+    "before": "Ενταυθα που 'στιν εγγυς, ει βουλεσθ' ὁρᾳν",
+    "after": "Ἐνταῦθά που ’στιν ἐγγύς, εἰ βούλεσθ’ ὁρᾶν",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html; https://resources.warburg.sas.ac.uk/pdf/ekh231b2440017.pdf",
+    "decision": "Retain Schopenhauer’s eight-line Euripides excerpt, corroborated by the printed witness; normalize accents, breathings, and elisions. Later fragment editions have textual variants."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Εστι δε τινα και αλληλων αιτια οἱον το πονειν αιτιον της ευεξιας, και αὑτη του πονειν αλλ' ου τον αυτον τροπον, αλλα το μεν ὡς τελος, το δε ὡς αρχη κινεσεος",
+    "after": "Ἔστι δέ τινα καὶ ἀλλήλων αἴτια· οἷον τὸ πονεῖν αἴτιον τῆς εὐεξίας, καὶ αὕτη τοῦ πονεῖν· ἀλλ’ οὐ τὸν αὐτὸν τρόπον, ἀλλὰ τὸ μὲν ὡς τέλος, τὸ δὲ ὡς ἀρχὴ κινήσεως",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "περι ποιοτητος και προσοτητος των του συλλογισμου ὁρων",
+    "after": "περὶ ποιότητος καὶ ποσότητος τῶν τοῦ συλλογισμοῦ ὅρων",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Μητροδωρος ὁ καθηγητης Επικουρου, φησιν ατοπον ειναι εν μεγάλῳ πεδίῳ ἑνα σταχυν γεννηθηναι, και ἑνα κοσμον εν τῳ απειρῳ",
+    "after": "Μητρόδωρος ὁ καθηγητὴς Ἐπικούρου, φησὶν ἄτοπον εἶναι ἐν μεγάλῳ πεδίῳ ἕνα στάχυν γεννηθῆναι, καὶ ἕνα κόσμον ἐν τῷ ἀπείρῳ",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "απειρους κοσμους εν τῳ απειρῳ",
+    "after": "ἀπείρους κόσμους ἐν τῷ ἀπείρῳ",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "το δε ειναι ουκ ουσια ουδενι",
+    "after": "τὸ δὲ εἶναι οὐκ οὐσία οὐδενί",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "νους πρακτικος",
+    "after": "νοῦς πρακτικός",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "μεν γαρ πρακτικος εστι λογος, ὁ δε θεωρητικος",
+    "after": "μὲν γὰρ πρακτικός ἐστι λόγος, ὁ δὲ θεωρητικός",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Politics VII.1339a); https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "λογιστικον της ψυχης",
+    "after": "λογιστικὸν τῆς ψυχῆς",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "το λογιμον ἡ φρονησις",
+    "after": "τὸ λόγιμον, ἡ φρόνησις",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "νους, διανοια",
+    "after": "νοῦς, διάνοια",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Collate words with the published witness; restore extraction faults and standard polytonic orthography, retaining the historical quotation wording."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "ηθος",
+    "after": "ἦθος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "ηθη",
+    "after": "ἤθη",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0057.md",
+    "before": "εθος",
+    "after": "ἔθος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0067.md",
+    "before": "σεμνοτης",
+    "after": "σεμνότης",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0067.md",
+    "before": "κακος",
+    "after": "κακός",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0067.md",
+    "before": "των προς τι",
+    "after": "τῶν πρός τι",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0067.md",
+    "before": "τελος",
+    "after": "τέλος",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0068.md",
+    "before": "αγαπη",
+    "after": "ἀγάπη",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0069.md",
+    "before": "αγαπη",
+    "after": "ἀγάπη",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0069.md",
+    "before": "ερως",
+    "after": "ἔρως",
+    "source": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "πρωτον ψευδος",
+    "after": "πρῶτον ψεῦδος",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "συμπτωμα",
+    "after": "σύμπτωμα",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "περι",
+    "after": "περί",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "φαινομενα",
+    "after": "φαινόμενα",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "νοουμενα",
+    "after": "νοούμενα",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αδικος λογος",
+    "after": "ἄδικος λόγος",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "διαιτητου",
+    "after": "διαιτητοῦ",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "μεταβασις εις αλλο γενος",
+    "after": "μετάβασις εἰς ἄλλο γένος",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "κρατιστον",
+    "after": "κράτιστον",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αριστον",
+    "after": "ἄριστον",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "Μηδεν αγαν",
+    "after": "Μηδὲν ἄγαν",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αθαμβια",
+    "after": "ἀθαμβία",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "ακαταπληξις",
+    "after": "ἀκαταπληξία",
+    "source": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Ashort-def-2651/",
+    "decision": "Explicitly emend the historical noun to the standard lexicon form ἀκαταπληξία; documented in the editorial review."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "αθαυμασια",
+    "after": "ἀθαυμασία",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "λογιμον",
+    "after": "λόγιμον",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+    "decision": "Normalize the isolated Greek technical term to standard polytonic spelling."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "περί (“about”)",
+    "after": "περὶ δυνατῶν (“about possibilities”)",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html; original-epub-extract-md/chapter-0074.md",
+    "decision": "Emend the defective extracted phrase using the published Haldane–Kemp witness and contextual argument; explain the emendation in a reader-facing footnote."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "for only what is necessary becomes possible",
+    "after": "for only what is necessary becomes actual",
+    "source": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html; original-epub-extract-md/chapter-0074.md",
+    "decision": "Emend the defective extracted phrase using the published Haldane–Kemp witness and contextual argument; explain the emendation in a reader-facing footnote."
+  },
+  {
+    "file": "english-translation/chapter-0074.md",
+    "before": "understandig",
+    "after": "understanding",
+    "source": "Standard spelling of the English word; neighboring gloss identifies understanding.",
+    "decision": "Repair a dropped final n in the list of names for understanding."
+  },
+  {
+    "file": "english-translation/chapter-0041.md",
+    "before": "for thon hast been",
+    "after": "for thou hast been",
+    "source": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/2/",
+    "decision": "Repair the known extraction errors in the quotation / align the English gloss with the corrected Greek."
+  },
+  {
+    "file": "english-translation/chapter-0041.md",
+    "before": "fortune's beffets and rewards",
+    "after": "fortune's buffets and rewards",
+    "source": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/2/",
+    "decision": "Repair the known extraction errors in the quotation / align the English gloss with the corrected Greek."
+  },
+  {
+    "file": "english-translation/chapter-0041.md",
+    "before": "The English quotation above retains the wording and apparent typographical errors of the source extract.",
+    "after": "Editorial note: the extraction’s “thon” and “beffets” have been corrected to “thou” and “buffets,” checked against the Folger Shakespeare text of *Hamlet*, Act 3, scene 2. Schopenhauer’s excerpt and its German gloss are retained.",
+    "source": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/2/",
+    "decision": "Repair the known extraction errors in the quotation / align the English gloss with the corrected Greek."
+  },
+  {
+    "file": "english-translation/chapter-0033.md",
+    "before": "(in itself, always as itself)",
+    "after": "(in itself, always in the same way)",
+    "source": "https://github.com/PerseusDL/canonical-greekLit (Timaeus); https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "decision": "Repair the known extraction errors in the quotation / align the English gloss with the corrected Greek."
+  }
+]

@@ -35,7 +35,7 @@ As the general human form corresponds to the general human will, so the individu
 It is very remarkable that Parmenides already expressed this in the following verses cited by Aristotle (*Metaphysics*, III, 5):
 
 > `ὡς γὰρ ἕκαστος ἔχει κρᾶσιν μελέων πολυκάμπτων,`
-> `τώς νόος ἀνθρώποισι παρέστηκεν· τὸ γὰρ αὐτό`
+> `τὼς νόος ἀνθρώποισι παρέστηκεν· τὸ γὰρ αὐτό`
 > `ἔστιν ὅπερ φρονέει μελέων φύσις ἀνθρώποισιν,`
 > `καὶ πᾶσιν καὶ παντί· τὸ γὰρ πλέον ἐστὶ νόημα.`
 >

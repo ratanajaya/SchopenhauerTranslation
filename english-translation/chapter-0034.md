@@ -16,6 +16,6 @@ Indeed, if it were permissible to draw an inference from an impossible suppositi
 
 This would be so if we, as subject of cognition, were not at the same time individuals; that is, if our intuition were not mediated by a body, from whose affections it proceeds, and which is itself only concrete willing, objecthood of the will, and therefore object among objects. As such, once it enters knowing consciousness, it can do so only in the forms of the principle of sufficient reason; consequently it already presupposes, and thereby introduces, time and all the other forms expressed by that principle.
 
-Time is merely the distributed and fragmented view that an individual being has of the Ideas, which are outside time and therefore *eternal*. Hence Plato says that time is the moving image of eternity: `αιωνος ειϰων ϰινητη ὁ χϱονος` (time is the moving image of eternity).[^1]
+Time is merely the distributed and fragmented view that an individual being has of the Ideas, which are outside time and therefore *eternal*. Hence Plato says that time is the moving image of eternity: `αἰῶνος εἰκὼν κινητὴ ὁ χρόνος` (time is the moving image of eternity).[^1]
 
 [^1]: On this, see chapter 29 of the second volume.
